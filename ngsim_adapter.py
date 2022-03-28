@@ -6,7 +6,7 @@ from mtldp.adapters.adapter_base import TrajectoryAdapterBase
 
 class NgsimTrajectoryAdapter(TrajectoryAdapterBase):
     def __init__(self):
-        self.dtype_dict = {}
+        self.dtype_dict = {'Vehicle_ID': str}
 
         self.attribute_map = {'Vehicle_ID': 'veh_id',
                               'v_Vel': 'speed'}
