@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.57 93a4d346">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2022-03-28T01:13:27Z"/>
+
+  <node id="69387078" lat="33.7842980" lon="-84.3822400" version="3" timestamp="2011-03-04T14:37:41Z" changeset="7454884" uid="28852" user="Mark Gray">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69421277" lat="33.7865802" lon="-84.3831523" version="5" timestamp="2014-06-29T17:44:54Z" changeset="23276069" uid="1946151" user="Jack the Ripper">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69515842" lat="33.7817161" lon="-84.3840077" version="4" timestamp="2018-02-13T20:29:23Z" changeset="56333716" uid="3272286" user="manings">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69588600" lat="33.7817480" lon="-84.3824990" version="3" timestamp="2009-10-06T13:42:50Z" changeset="2760040" uid="147510" user="woodpeck_fixbot">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="5198748651" lat="33.7865032" lon="-84.3821632" version="2" timestamp="2018-02-13T20:27:41Z" changeset="56333681" uid="3272286" user="manings">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <way id="9246225" version="13" timestamp="2020-04-24T03:43:44Z" changeset="84032102" uid="10302077" user="pchopson">
+    <nd ref="69227156"/>
+    <nd ref="5416416513"/>
+    <nd ref="3522551808"/>
+    <nd ref="69200116"/>
+    <nd ref="69227157"/>
+    <nd ref="7273504915"/>
+    <nd ref="5853527360"/>
+    <nd ref="5416485174"/>
+    <nd ref="5416485132"/>
+    <nd ref="5416485128"/>
+    <nd ref="7440198542"/>
+    <nd ref="7440198544"/>
+    <nd ref="5996566184"/>
+    <nd ref="69227161"/>
+    <nd ref="4165941961"/>
+    <nd ref="69227164"/>
+    <nd ref="69227168"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="11th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="11th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="9247806" version="12" timestamp="2019-11-27T08:22:03Z" changeset="77614511" uid="10086293" user="ommundu">
+    <nd ref="69249210"/>
+    <nd ref="3602660737"/>
+    <nd ref="5674181092"/>
+    <nd ref="69249214"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="13th Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="13th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="9247807" version="11" timestamp="2021-04-15T01:35:41Z" changeset="102957561" uid="10019160" user="jScher">
+    <nd ref="69200127"/>
+    <nd ref="69249238"/>
+    <nd ref="69249240"/>
+    <nd ref="8169480881"/>
+    <nd ref="8169480880"/>
+    <nd ref="5424129350"/>
+    <nd ref="5424129342"/>
+    <nd ref="5424129341"/>
+    <nd ref="5424126685"/>
+    <nd ref="5424129347"/>
+    <nd ref="6005931782"/>
+    <nd ref="69249243"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="13th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="13th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+  </way>
+  <way id="9247809" version="11" timestamp="2021-05-25T17:22:55Z" changeset="105307461" uid="10019160" user="jScher">
+    <nd ref="69249251"/>
+    <nd ref="8765611112"/>
+    <nd ref="5424005429"/>
+    <nd ref="6694851735"/>
+    <nd ref="69249253"/>
+    <nd ref="69249258"/>
+    <nd ref="69200127"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="13th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="13th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+  </way>
+  <way id="9254743" version="2" timestamp="2012-12-27T16:53:18Z" changeset="14427819" uid="451693" user="bot-mode">
+    <nd ref="69227179"/>
+    <nd ref="69339467"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Dickson Place Northeast"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Dickson"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="9258925" version="16" timestamp="2021-04-15T16:25:48Z" changeset="103006892" uid="9051457" user="robotstefan">
+    <nd ref="69387063"/>
+    <nd ref="5996566175"/>
+    <nd ref="69387066"/>
+    <nd ref="5410743448"/>
+    <nd ref="5411630556"/>
+    <nd ref="5410743449"/>
+    <nd ref="69387069"/>
+    <nd ref="69387071"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="12th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="12th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_left_1" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="9258926" version="16" timestamp="2022-03-09T04:14:53Z" changeset="118260184" uid="11824233" user="kmarkish_lyft">
+    <nd ref="69200118"/>
+    <nd ref="5996566149"/>
+    <nd ref="5424005436"/>
+    <nd ref="5424001601"/>
+    <nd ref="5423994003"/>
+    <nd ref="9564973115"/>
+    <nd ref="69372822"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="12th Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="12th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+  </way>
+  <way id="9269517" version="9" timestamp="2018-09-30T19:39:00Z" changeset="63073895" uid="8107451" user="njtbusfan">
+    <nd ref="69538856"/>
+    <nd ref="69538852"/>
+    <nd ref="5410758668"/>
+    <nd ref="5410758676"/>
+    <nd ref="69538850"/>
+    <nd ref="69538848"/>
+    <nd ref="69488048"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Crescent Avenue Northeast"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Crescent"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="9272335" version="12" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <nd ref="8082786909"/>
+    <nd ref="9561221607"/>
+    <nd ref="69365777"/>
+    <nd ref="5996559579"/>
+    <nd ref="69531969"/>
+    <nd ref="5999071489"/>
+    <nd ref="5999071497"/>
+    <nd ref="69350683"/>
+    <nd ref="5999074638"/>
+    <nd ref="69515337"/>
+    <nd ref="5999074672"/>
+    <nd ref="69576973"/>
+    <nd ref="69576975"/>
+    <nd ref="69576978"/>
+    <nd ref="5849239945"/>
+    <nd ref="69576980"/>
+    <nd ref="9515021663"/>
+    <nd ref="69488040"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="Cypress Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Cypress"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="9272944" version="25" timestamp="2022-03-15T14:45:13Z" changeset="118514648" uid="11249764" user="akakhno_lyft">
+    <nd ref="5198748651"/>
+    <nd ref="5674179651"/>
+    <nd ref="5412021439"/>
+    <nd ref="5674181090"/>
+    <nd ref="69249214"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="Juniper Street Northeast"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Juniper"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="28039002" version="13" timestamp="2021-04-15T03:01:51Z" changeset="102959017" uid="10019160" user="jScher">
+    <nd ref="69227161"/>
+    <nd ref="5996566286"/>
+    <nd ref="5996566177"/>
+    <nd ref="69387063"/>
+    <nd ref="5996566171"/>
+    <nd ref="69538863"/>
+    <nd ref="5853527364"/>
+    <nd ref="69538867"/>
+    <nd ref="69538870"/>
+    <nd ref="6005931780"/>
+    <nd ref="69249243"/>
+    <nd ref="3602660746"/>
+    <nd ref="7430760719"/>
+    <nd ref="6005931751"/>
+    <nd ref="69538871"/>
+    <nd ref="69421271"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="maxspeed:type" v="sign"/>
+    <tag k="name" v="Crescent Avenue Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Crescent"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="Ave"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="60832343" version="6" timestamp="2018-09-25T19:42:07Z" changeset="62925587" uid="3009398" user="StackKorora">
+    <nd ref="69488055"/>
+    <nd ref="4165941990"/>
+    <nd ref="761541667"/>
+    <nd ref="761541653"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Place Northeast"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="75359069" version="8" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory">
+    <nd ref="69488048"/>
+    <nd ref="4165941986"/>
+    <nd ref="69488055"/>
+    <tag k="access" v="no"/>
+    <tag k="highway" v="construction"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Place Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="198659569" version="8" timestamp="2018-10-22T21:20:45Z" changeset="63773552" uid="3327134" user="afonit">
+    <nd ref="69227168"/>
+    <nd ref="4165941968"/>
+    <nd ref="2087657868"/>
+    <nd ref="2087657867"/>
+    <nd ref="2087657866"/>
+    <nd ref="5416485123"/>
+    <nd ref="4165941953"/>
+    <nd ref="69227178"/>
+    <nd ref="4165941957"/>
+    <nd ref="5416547098"/>
+    <nd ref="69227179"/>
+    <nd ref="5416485161"/>
+    <nd ref="6005931668"/>
+    <nd ref="69227188"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="11th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="11th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="234013258" version="7" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory">
+    <nd ref="69488048"/>
+    <nd ref="9515021672"/>
+    <nd ref="9515021671"/>
+    <nd ref="69488040"/>
+    <nd ref="9515021659"/>
+    <nd ref="476017951"/>
+    <nd ref="2423191301"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Place Northeast"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="234013266" version="10" timestamp="2018-10-07T19:44:16Z" changeset="63288109" uid="8107451" user="njtbusfan">
+    <nd ref="69515842"/>
+    <nd ref="4165941970"/>
+    <nd ref="69614548"/>
+    <nd ref="69614545"/>
+    <nd ref="69614542"/>
+    <nd ref="69538856"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="10th Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="10th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="235008480" version="10" timestamp="2021-05-06T13:58:11Z" changeset="104257564" uid="10019160" user="jScher">
+    <nd ref="69200114"/>
+    <nd ref="69200116"/>
+    <nd ref="5996566161"/>
+    <nd ref="69200118"/>
+    <nd ref="6993966526"/>
+    <nd ref="7468337328"/>
+    <nd ref="5424001613"/>
+    <nd ref="8519882584"/>
+    <nd ref="7468337327"/>
+    <nd ref="69200121"/>
+    <nd ref="69200123"/>
+    <nd ref="69200127"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Walk Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="Walk"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="290405872" version="5" timestamp="2018-10-22T21:20:48Z" changeset="63773552" uid="3327134" user="afonit">
+    <nd ref="69421271"/>
+    <nd ref="6005931765"/>
+    <nd ref="2939367165"/>
+    <nd ref="69421273"/>
+    <nd ref="2939367164"/>
+    <nd ref="3602660758"/>
+    <nd ref="69421277"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="14th Street Northeast"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="14th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+    <tag k="turn:lanes" v="left|none"/>
+  </way>
+  <way id="290405873" version="5" timestamp="2018-10-22T21:20:48Z" changeset="63773552" uid="3327134" user="afonit">
+    <nd ref="69421277"/>
+    <nd ref="3602660759"/>
+    <nd ref="2939367166"/>
+    <nd ref="2939367167"/>
+    <nd ref="2939367168"/>
+    <nd ref="6005931764"/>
+    <nd ref="69421271"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="14th Street Northeast"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="14th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="yes"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="290405874" version="8" timestamp="2018-09-30T19:41:35Z" changeset="63073895" uid="8107451" user="njtbusfan">
+    <nd ref="69421277"/>
+    <nd ref="3602660757"/>
+    <nd ref="69421281"/>
+    <nd ref="1573471355"/>
+    <nd ref="5674179652"/>
+    <nd ref="5198748651"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="5"/>
+    <tag k="name" v="14th Street Northeast"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="14th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+    <tag k="turn:lanes:backward" v="through|through;right"/>
+    <tag k="turn:lanes:forward" v="left|through|right"/>
+  </way>
+  <way id="354587521" version="16" timestamp="2021-06-30T07:48:29Z" changeset="107190008" uid="11824233" user="kmarkish_lyft">
+    <nd ref="69515842"/>
+    <nd ref="4165941976"/>
+    <nd ref="4165941988"/>
+    <nd ref="69488055"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="short_name" v="Peachtree Street"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+  </way>
+  <way id="354587522" version="10" timestamp="2021-05-16T18:25:44Z" changeset="104780477" uid="10019160" user="jScher">
+    <nd ref="69421277"/>
+    <nd ref="3602660753"/>
+    <nd ref="7415937421"/>
+    <nd ref="69515870"/>
+    <nd ref="3602660743"/>
+    <nd ref="69249210"/>
+    <nd ref="3602660735"/>
+    <nd ref="7430645949"/>
+    <nd ref="7477484616"/>
+    <nd ref="69515868"/>
+    <nd ref="69515865"/>
+    <nd ref="4165941938"/>
+    <nd ref="69387071"/>
+    <nd ref="4165941942"/>
+    <nd ref="69515861"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Street Northeast"/>
+    <tag k="short_name" v="Peachtree Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+  </way>
+  <way id="354587523" version="3" timestamp="2019-12-16T01:54:59Z" changeset="78444029" uid="10192114" user="dviraja">
+    <nd ref="2390850312"/>
+    <nd ref="7058941335"/>
+    <nd ref="2390850322"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Peachtree Street Northeast"/>
+    <tag k="short_name" v="Peachtree Street"/>
+    <tag k="sidewalk" v="right"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+  </way>
+  <way id="431441736" version="11" timestamp="2021-03-03T10:01:40Z" changeset="100339034" uid="10297537" user="appank">
+    <nd ref="5198748651"/>
+    <nd ref="4338646193"/>
+    <nd ref="5674179654"/>
+    <nd ref="8482370936"/>
+    <nd ref="4338646199"/>
+    <nd ref="4338645785"/>
+    <nd ref="4338646192"/>
+    <nd ref="5834678396"/>
+    <nd ref="7258187491"/>
+    <nd ref="5853527365"/>
+    <nd ref="4306377241"/>
+    <tag k="cycleway:left" v="lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="lanes:backward" v="3"/>
+    <tag k="lanes:forward" v="1"/>
+    <tag k="name" v="14th Street Northeast"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="14th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+    <tag k="turn:lanes:backward" v="left|left|through"/>
+  </way>
+  <way id="505912698" version="5" timestamp="2018-10-22T21:20:43Z" changeset="63773552" uid="3327134" user="afonit">
+    <nd ref="4165941984"/>
+    <nd ref="69588600"/>
+    <nd ref="4165941980"/>
+    <nd ref="5416547103"/>
+    <nd ref="2508783158"/>
+    <nd ref="5424144260"/>
+    <nd ref="5416547097"/>
+    <nd ref="2277885172"/>
+    <nd ref="6005931662"/>
+    <nd ref="69589540"/>
+    <nd ref="6005931644"/>
+    <nd ref="69614561"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="10th Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="10th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="533146591" version="2" timestamp="2018-10-07T19:44:56Z" changeset="63288109" uid="8107451" user="njtbusfan">
+    <nd ref="69538856"/>
+    <nd ref="69614540"/>
+    <nd ref="69614533"/>
+    <nd ref="69614530"/>
+    <nd ref="69614527"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="10th Street Northeast"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="10th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="533146592" version="4" timestamp="2021-10-02T22:07:03Z" changeset="112016575" uid="10019160" user="jScher">
+    <nd ref="69614527"/>
+    <nd ref="5172831213"/>
+    <nd ref="5172831212"/>
+    <nd ref="5172831211"/>
+    <nd ref="5172831210"/>
+    <nd ref="5172831209"/>
+    <nd ref="69372813"/>
+    <tag k="cycleway:right" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="2"/>
+    <tag k="name" v="10th Street Northeast"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="surface" v="asphalt"/>
+  </way>
+  <way id="586592806" version="9" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory">
+    <nd ref="69387078"/>
+    <nd ref="4165941949"/>
+    <nd ref="5416485164"/>
+    <nd ref="5416485169"/>
+    <nd ref="6702906075"/>
+    <nd ref="6702906078"/>
+    <nd ref="6694851733"/>
+    <nd ref="9537493832"/>
+    <nd ref="5849239947"/>
+    <nd ref="6005931681"/>
+    <nd ref="69387083"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="no"/>
+    <tag k="name" v="12th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="12th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_left_1" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="611582484" version="8" timestamp="2021-05-06T13:50:36Z" changeset="104257564" uid="10019160" user="jScher">
+    <nd ref="69387063"/>
+    <nd ref="5996566168"/>
+    <nd ref="5410743450"/>
+    <nd ref="69387088"/>
+    <nd ref="69200118"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="12th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="12th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+  </way>
+  <way id="611582485" version="4" timestamp="2021-04-24T07:02:58Z" changeset="103519408" uid="9051457" user="robotstefan">
+    <nd ref="69387071"/>
+    <nd ref="4165941940"/>
+    <nd ref="69387077"/>
+    <nd ref="5424133416"/>
+    <nd ref="8296703969"/>
+    <nd ref="4165941945"/>
+    <nd ref="69387078"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lit" v="yes"/>
+    <tag k="name" v="12th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="12th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_left_1" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="619421349" version="4" timestamp="2020-04-21T16:12:09Z" changeset="83891193" uid="10313603" user="rserezo_lyft">
+    <nd ref="5406938417"/>
+    <nd ref="7430760747"/>
+    <nd ref="69421268"/>
+    <nd ref="7430760724"/>
+    <nd ref="5407280815"/>
+    <nd ref="7430760732"/>
+    <nd ref="7430760763"/>
+    <nd ref="5410723026"/>
+    <nd ref="7430760772"/>
+    <nd ref="5410723025"/>
+    <nd ref="6005931761"/>
+    <nd ref="69421271"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="name" v="14th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="14th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="629238145" version="2" timestamp="2021-04-15T16:25:48Z" changeset="103006892" uid="9051457" user="robotstefan">
+    <nd ref="476017728"/>
+    <nd ref="69200112"/>
+    <nd ref="5172831207"/>
+    <nd ref="69614527"/>
+    <tag k="cycleway:right" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="10th Street Northeast"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="10th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="629238146" version="3" timestamp="2021-10-02T22:12:51Z" changeset="112016575" uid="10019160" user="jScher">
+    <nd ref="2423191301"/>
+    <nd ref="6694597821"/>
+    <nd ref="6694597806"/>
+    <nd ref="476017918"/>
+    <tag k="highway" v="residential"/>
+    <tag k="lanes" v="2"/>
+    <tag k="lit" v="yes"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Place Northeast"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="Pl"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="629278174" version="1" timestamp="2018-09-30T19:38:26Z" changeset="63073895" uid="8107451" user="njtbusfan">
+    <nd ref="2390850322"/>
+    <nd ref="3602660762"/>
+    <nd ref="69421277"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="name" v="Peachtree Street Northeast"/>
+    <tag k="short_name" v="Peachtree Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+  </way>
+  <way id="631653294" version="2" timestamp="2021-05-16T18:27:53Z" changeset="104780477" uid="10019160" user="jScher">
+    <nd ref="69227168"/>
+    <nd ref="69515852"/>
+    <nd ref="4165941966"/>
+    <nd ref="69515849"/>
+    <nd ref="69515728"/>
+    <nd ref="4165941972"/>
+    <nd ref="69515842"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="short_name" v="Peachtree Street"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+  </way>
+  <way id="631653295" version="2" timestamp="2020-02-19T02:23:31Z" changeset="81195336" uid="10457692" user="pravallg">
+    <nd ref="4165941984"/>
+    <nd ref="7223816728"/>
+    <nd ref="5407255378"/>
+    <nd ref="4165941974"/>
+    <nd ref="69515842"/>
+    <tag k="cycleway" v="shared_lane"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="30 mph"/>
+    <tag k="name" v="10th Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="10th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="750019483" version="5" timestamp="2021-04-07T08:41:12Z" changeset="102463432" uid="10904111" user="technician_lyft">
+    <nd ref="69249214"/>
+    <nd ref="5674181091"/>
+    <nd ref="69249218"/>
+    <nd ref="8482370929"/>
+    <nd ref="69249224"/>
+    <nd ref="8323499758"/>
+    <nd ref="6694729109"/>
+    <nd ref="7258187490"/>
+    <nd ref="5853527355"/>
+    <tag k="highway" v="residential"/>
+    <tag k="name" v="13th Street Northeast"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="13th"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+  </way>
+  <way id="750019484" version="5" timestamp="2022-02-09T09:27:49Z" changeset="117192956" uid="11249764" user="akakhno_lyft">
+    <nd ref="69387078"/>
+    <nd ref="4165941951"/>
+    <nd ref="69588605"/>
+    <nd ref="69588601"/>
+    <nd ref="5416485172"/>
+    <nd ref="4165941955"/>
+    <nd ref="69227178"/>
+    <nd ref="4165941959"/>
+    <nd ref="5424132517"/>
+    <nd ref="7151205661"/>
+    <nd ref="7223816735"/>
+    <nd ref="4165941978"/>
+    <nd ref="69588600"/>
+    <nd ref="4165941982"/>
+    <nd ref="5411694315"/>
+    <nd ref="69588598"/>
+    <nd ref="761541653"/>
+    <nd ref="69588595"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="3"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Juniper Street Northeast"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Juniper"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+  </way>
+  <way id="943600887" version="2" timestamp="2021-05-16T18:26:06Z" changeset="104780477" uid="10019160" user="jScher">
+    <nd ref="69515861"/>
+    <nd ref="69515858"/>
+    <nd ref="69515856"/>
+    <nd ref="69515855"/>
+    <nd ref="4165941963"/>
+    <nd ref="69227168"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Street Northeast"/>
+    <tag k="short_name" v="Peachtree Street"/>
+    <tag k="sidewalk" v="both"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+  </way>
+  <way id="959690884" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <nd ref="69488055"/>
+    <nd ref="4165941992"/>
+    <nd ref="6308275046"/>
+    <nd ref="4165941996"/>
+    <nd ref="69515841"/>
+    <nd ref="4165942000"/>
+    <nd ref="5424170716"/>
+    <nd ref="5424173557"/>
+    <nd ref="4165942012"/>
+    <nd ref="69515340"/>
+    <nd ref="4165942016"/>
+    <nd ref="6702448132"/>
+    <nd ref="4165942034"/>
+    <nd ref="69350685"/>
+    <nd ref="4165942030"/>
+    <nd ref="5831060487"/>
+    <nd ref="5831060489"/>
+    <nd ref="5411918866"/>
+    <nd ref="4165942046"/>
+    <nd ref="69515840"/>
+    <nd ref="4165942042"/>
+    <nd ref="4165942054"/>
+    <nd ref="69365780"/>
+    <nd ref="4165942058"/>
+    <nd ref="5416479063"/>
+    <nd ref="9561221580"/>
+    <nd ref="9561221586"/>
+    <nd ref="9561221585"/>
+    <nd ref="4165942067"/>
+    <nd ref="69228762"/>
+    <nd ref="4165942071"/>
+    <nd ref="5424197000"/>
+    <nd ref="5407194951"/>
+    <nd ref="4165942087"/>
+    <nd ref="69436045"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Peachtree Street Northeast"/>
+    <tag k="oneway" v="no"/>
+    <tag k="short_name" v="Peachtree Street"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Peachtree"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:reviewed" v="no"/>
+    <tag k="tiger:zip_left" v="30308"/>
+  </way>
+  <way id="1029549928" version="1" timestamp="2022-02-09T09:27:49Z" changeset="117192956" uid="11249764" user="akakhno_lyft">
+    <nd ref="69249214"/>
+    <nd ref="69588608"/>
+    <nd ref="4165941947"/>
+    <nd ref="69387078"/>
+    <tag k="highway" v="secondary"/>
+    <tag k="lanes" v="4"/>
+    <tag k="maxspeed" v="25 mph"/>
+    <tag k="name" v="Juniper Street Northeast"/>
+    <tag k="oneway" v="yes"/>
+    <tag k="source:maxspeed" v="sign"/>
+    <tag k="surface" v="asphalt"/>
+    <tag k="tiger:cfcc" v="A41"/>
+    <tag k="tiger:county" v="Fulton, GA"/>
+    <tag k="tiger:name_base" v="Juniper"/>
+    <tag k="tiger:name_direction_suffix" v="NE"/>
+    <tag k="tiger:name_type" v="St"/>
+    <tag k="tiger:zip_left" v="30309"/>
+    <tag k="tiger:zip_right" v="30309"/>
+    <tag k="turn:lanes" v="left|none|none|none"/>
+  </way>
+  <node id="69228762" lat="33.7736828" lon="-84.3847798" version="4" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="69436045" lat="33.7722390" lon="-84.3849130" version="3" timestamp="2009-12-12T04:05:31Z" changeset="3353591" uid="147510" user="woodpeck_fixbot">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="4165942067" lat="33.7737474" lon="-84.3847750" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4165942071" lat="33.7736168" lon="-84.3847848" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4165942087" lat="33.7723375" lon="-84.3849035" version="3" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5407194951" lat="33.7728688" lon="-84.3848514" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory"/>
+  <node id="5424197000" lat="33.7729330" lon="-84.3848438" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory"/>
+  <node id="69350683" lat="33.7774540" lon="-84.3858710" version="2" timestamp="2009-12-12T04:06:47Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69350685" lat="33.7773560" lon="-84.3844170" version="2" timestamp="2009-11-14T04:51:11Z" changeset="3110547" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69365777" lat="33.7750094" lon="-84.3861156" version="4" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="highway" v="stop"/>
+    <tag k="stop" v="all"/>
+  </node>
+  <node id="69365780" lat="33.7749160" lon="-84.3846480" version="4" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="69515337" lat="33.7786320" lon="-84.3857590" version="2" timestamp="2009-10-06T13:37:05Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69515340" lat="33.7785290" lon="-84.3843060" version="2" timestamp="2009-12-12T04:21:06Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69515840" lat="33.7761550" lon="-84.3845310" version="2" timestamp="2009-11-14T05:02:35Z" changeset="3110547" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69515841" lat="33.7795260" lon="-84.3842120" version="4" timestamp="2010-06-01T18:55:57Z" changeset="4877350" uid="296534" user="bibbit">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69531969" lat="33.7762530" lon="-84.3859900" version="2" timestamp="2009-12-12T04:23:21Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69576973" lat="33.7794760" lon="-84.3856850" version="2" timestamp="2009-10-06T13:42:00Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69576975" lat="33.7795380" lon="-84.3856940" version="4" timestamp="2010-06-01T18:57:55Z" changeset="4877378" uid="296534" user="bibbit"/>
+  <node id="69576978" lat="33.7795940" lon="-84.3856980" version="2" timestamp="2009-12-12T04:32:44Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69576980" lat="33.7804340" lon="-84.3856230" version="2" timestamp="2009-12-12T04:32:44Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="4165941996" lat="33.7795785" lon="-84.3842070" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942000" lat="33.7794877" lon="-84.3842156" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942012" lat="33.7785717" lon="-84.3843020" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942016" lat="33.7784845" lon="-84.3843102" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942030" lat="33.7773207" lon="-84.3844203" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942034" lat="33.7774090" lon="-84.3844120" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942042" lat="33.7761029" lon="-84.3845359" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942046" lat="33.7762099" lon="-84.3845258" version="1" timestamp="2016-05-04T15:27:34Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165942054" lat="33.7749645" lon="-84.3846433" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4165942058" lat="33.7748677" lon="-84.3846525" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="5411918866" lat="33.7767942" lon="-84.3844703" version="1" timestamp="2018-02-14T09:57:26Z" changeset="56348235" uid="5438123" user="oormilavinod"/>
+  <node id="5416479063" lat="33.7746026" lon="-84.3846770" version="1" timestamp="2018-02-16T13:00:36Z" changeset="56413286" uid="5648480" user="TeresaPeteti"/>
+  <node id="5424170716" lat="33.7793129" lon="-84.3842321" version="1" timestamp="2018-02-20T09:16:07Z" changeset="56514555" uid="6371645" user="Iqhra"/>
+  <node id="5424173557" lat="33.7788659" lon="-84.3842743" version="1" timestamp="2018-02-20T09:19:02Z" changeset="56514627" uid="6371645" user="Iqhra"/>
+  <node id="5831060487" lat="33.7772024" lon="-84.3844315" version="1" timestamp="2018-08-14T02:36:05Z" changeset="61643341" uid="8240071" user="ravsjith"/>
+  <node id="5831060489" lat="33.7769502" lon="-84.3844555" version="1" timestamp="2018-08-14T02:36:05Z" changeset="61643341" uid="8240071" user="ravsjith"/>
+  <node id="5849239945" lat="33.7801316" lon="-84.3856500" version="1" timestamp="2018-08-22T14:41:26Z" changeset="61891426" uid="8683370" user="shushmit"/>
+  <node id="5996559579" lat="33.7750999" lon="-84.3861067" version="2" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory"/>
+  <node id="5999071489" lat="33.7763022" lon="-84.3859851" version="1" timestamp="2018-10-19T21:20:09Z" changeset="63691655" uid="3327134" user="afonit"/>
+  <node id="5999071497" lat="33.7774042" lon="-84.3858759" version="1" timestamp="2018-10-19T21:20:09Z" changeset="63691655" uid="3327134" user="afonit"/>
+  <node id="5999074638" lat="33.7785711" lon="-84.3857648" version="1" timestamp="2018-10-19T21:23:26Z" changeset="63691702" uid="3327134" user="afonit"/>
+  <node id="5999074672" lat="33.7786824" lon="-84.3857546" version="1" timestamp="2018-10-19T21:23:26Z" changeset="63691702" uid="3327134" user="afonit"/>
+  <node id="6702448132" lat="33.7777015" lon="-84.3843843" version="1" timestamp="2019-08-12T06:44:28Z" changeset="73256314" uid="10145800" user="accheela"/>
+  <node id="8082786909" lat="33.7747128" lon="-84.3861652" version="1" timestamp="2020-11-04T23:34:56Z" changeset="93566521" uid="7679992" user="kfremd"/>
+  <node id="9561221580" lat="33.7745520" lon="-84.3846819" version="1" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory"/>
+  <node id="9561221585" lat="33.7743078" lon="-84.3847047" version="1" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory"/>
+  <node id="9561221586" lat="33.7743242" lon="-84.3847032" version="1" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory"/>
+  <node id="9561221607" lat="33.7749382" lon="-84.3861218" version="1" timestamp="2022-03-07T20:42:06Z" changeset="118212102" uid="186210" user="demory"/>
+  <node id="69588595" lat="33.7803196" lon="-84.3825833" version="3" timestamp="2012-01-10T23:42:46Z" changeset="10356819" uid="575563" user="kentix"/>
+  <node id="6308275046" lat="33.7804909" lon="-84.3841205" version="1" timestamp="2019-02-28T14:30:40Z" changeset="67653431" uid="9196089" user="hemasvn"/>
+  <node id="69200112" lat="33.7814408" lon="-84.3863849" version="5" timestamp="2017-10-17T11:51:29Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="69200114" lat="33.7821105" lon="-84.3863404" version="3" timestamp="2013-08-25T15:15:51Z" changeset="17500867" uid="127401" user="Ryan Lash">
+    <tag k="barrier" v="block"/>
+  </node>
+  <node id="69200116" lat="33.7832580" lon="-84.3862890" version="2" timestamp="2009-12-12T03:38:03Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69200118" lat="33.7845640" lon="-84.3862820" version="2" timestamp="2009-10-06T13:11:27Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69200121" lat="33.7855930" lon="-84.3862850" version="2" timestamp="2009-12-12T03:38:03Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69200123" lat="33.7856140" lon="-84.3862800" version="2" timestamp="2009-12-12T03:38:03Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69200127" lat="33.7856360" lon="-84.3862600" version="2" timestamp="2009-12-12T03:38:03Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69227156" lat="33.7832620" lon="-84.3878340" version="2" timestamp="2009-11-14T04:45:45Z" changeset="3110547" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69227157" lat="33.7832580" lon="-84.3862200" version="2" timestamp="2009-12-12T03:44:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69227161" lat="33.7832550" lon="-84.3846520" version="2" timestamp="2009-10-06T13:14:12Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249238" lat="33.7856470" lon="-84.3862210" version="2" timestamp="2009-12-12T03:47:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249240" lat="33.7856460" lon="-84.3861650" version="2" timestamp="2009-10-06T13:16:36Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249243" lat="33.7856190" lon="-84.3842190" version="2" timestamp="2009-12-12T03:47:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249251" lat="33.7857350" lon="-84.3878150" version="2" timestamp="2009-11-03T03:06:37Z" changeset="3021897" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249253" lat="33.7857010" lon="-84.3863420" version="2" timestamp="2009-10-06T13:16:36Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249258" lat="33.7856880" lon="-84.3863070" version="2" timestamp="2009-12-12T03:47:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69372813" lat="33.7815030" lon="-84.3878020" version="3" timestamp="2009-12-12T04:12:05Z" changeset="3353549" uid="147510" user="woodpeck_fixbot">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69372822" lat="33.7844915" lon="-84.3878218" version="3" timestamp="2022-03-09T04:14:53Z" changeset="118260184" uid="11824233" user="kmarkish_lyft"/>
+  <node id="69387063" lat="33.7844634" lon="-84.3843478" version="5" timestamp="2018-02-13T20:18:08Z" changeset="56333482" uid="3272286" user="manings"/>
+  <node id="69387066" lat="33.7844182" lon="-84.3842152" version="5" timestamp="2018-02-13T20:18:08Z" changeset="56333482" uid="3272286" user="manings"/>
+  <node id="69387088" lat="33.7845630" lon="-84.3861700" version="2" timestamp="2009-12-12T03:55:24Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69421268" lat="33.7866630" lon="-84.3862190" version="2" timestamp="2009-10-06T13:28:45Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69421271" lat="33.7866550" lon="-84.3843280" version="2" timestamp="2009-12-12T04:01:18Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69488040" lat="33.7807640" lon="-84.3856040" version="2" timestamp="2009-12-12T04:16:21Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69488048" lat="33.7807820" lon="-84.3846220" version="2" timestamp="2009-12-12T04:16:21Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69538848" lat="33.7808985" lon="-84.3846200" version="4" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory">
+    <tag k="crossing" v="marked"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="69538850" lat="33.7809450" lon="-84.3846300" version="2" timestamp="2009-12-12T04:24:29Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69538852" lat="33.7814800" lon="-84.3848730" version="2" timestamp="2009-11-14T05:03:59Z" changeset="3110547" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69538856" lat="33.7815820" lon="-84.3849080" version="2" timestamp="2009-10-06T13:39:22Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69538863" lat="33.7848440" lon="-84.3842800" version="2" timestamp="2009-12-12T04:24:30Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69538867" lat="33.7853320" lon="-84.3842250" version="2" timestamp="2009-10-06T13:39:23Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69538870" lat="33.7854780" lon="-84.3842160" version="2" timestamp="2009-12-12T04:24:30Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69538871" lat="33.7865790" lon="-84.3843290" version="2" timestamp="2009-11-14T05:03:59Z" changeset="3110547" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69614527" lat="33.7814747" lon="-84.3859517" version="6" timestamp="2017-10-17T11:51:29Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="69614530" lat="33.7814720" lon="-84.3853180" version="2" timestamp="2009-12-12T04:39:06Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69614533" lat="33.7814840" lon="-84.3852160" version="2" timestamp="2009-11-03T03:17:33Z" changeset="3021897" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69614540" lat="33.7815070" lon="-84.3851090" version="2" timestamp="2009-10-06T13:45:20Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69614542" lat="33.7816548" lon="-84.3847303" version="3" timestamp="2018-02-13T20:29:23Z" changeset="56333716" uid="3272286" user="manings"/>
+  <node id="69614545" lat="33.7817016" lon="-84.3845634" version="3" timestamp="2018-02-13T20:29:23Z" changeset="56333716" uid="3272286" user="manings"/>
+  <node id="69614548" lat="33.7817260" lon="-84.3844083" version="3" timestamp="2018-02-13T20:29:23Z" changeset="56333716" uid="3272286" user="manings"/>
+  <node id="476017728" lat="33.7814411" lon="-84.3866785" version="2" timestamp="2017-10-17T11:51:29Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="476017918" lat="33.7807593" lon="-84.3866731" version="2" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory"/>
+  <node id="476017951" lat="33.7807628" lon="-84.3859742" version="2" timestamp="2013-08-25T15:15:52Z" changeset="17500867" uid="127401" user="Ryan Lash"/>
+  <node id="2423191301" lat="33.7807617" lon="-84.3861800" version="2" timestamp="2013-08-24T16:27:09Z" changeset="17486661" uid="586822" user="Saikrishna Arcot">
+    <tag k="bus" v="yes"/>
+    <tag k="name" v="Midtown MARTA"/>
+    <tag k="public_transport" v="stop_position"/>
+  </node>
+  <node id="2939367165" lat="33.7866064" lon="-84.3841904" version="1" timestamp="2014-06-29T17:44:52Z" changeset="23276069" uid="1946151" user="Jack the Ripper"/>
+  <node id="2939367168" lat="33.7866774" lon="-84.3842090" version="1" timestamp="2014-06-29T17:44:52Z" changeset="23276069" uid="1946151" user="Jack the Ripper"/>
+  <node id="3522551808" lat="33.7832598" lon="-84.3870002" version="1" timestamp="2015-05-16T20:55:21Z" changeset="31212302" uid="88771" user="mjn"/>
+  <node id="3602660746" lat="33.7856542" lon="-84.3842230" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="4165941986" lat="33.7807898" lon="-84.3841880" version="2" timestamp="2020-04-26T04:47:29Z" changeset="84128306" uid="10302077" user="pchopson"/>
+  <node id="5172831207" lat="33.7814414" lon="-84.3860618" version="1" timestamp="2017-10-17T11:51:28Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="5172831209" lat="33.7815799" lon="-84.3877008" version="1" timestamp="2017-10-17T11:51:28Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="5172831210" lat="33.7815309" lon="-84.3873070" version="1" timestamp="2017-10-17T11:51:28Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="5172831211" lat="33.7815028" lon="-84.3870741" version="1" timestamp="2017-10-17T11:51:28Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="5172831212" lat="33.7815071" lon="-84.3863841" version="1" timestamp="2017-10-17T11:51:28Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="5172831213" lat="33.7815130" lon="-84.3860537" version="1" timestamp="2017-10-17T11:51:28Z" changeset="53009262" uid="3272286" user="manings"/>
+  <node id="5406938417" lat="33.7866581" lon="-84.3866220" version="1" timestamp="2018-02-12T10:36:31Z" changeset="56289500" uid="6443638" user="Teesta"/>
+  <node id="5407280815" lat="33.7866613" lon="-84.3858254" version="1" timestamp="2018-02-12T13:25:19Z" changeset="56294550" uid="5659851" user="marthaleena"/>
+  <node id="5410723025" lat="33.7866584" lon="-84.3851334" version="1" timestamp="2018-02-13T20:14:48Z" changeset="56333410" uid="3272286" user="manings"/>
+  <node id="5410723026" lat="33.7866588" lon="-84.3852326" version="1" timestamp="2018-02-13T20:14:48Z" changeset="56333410" uid="3272286" user="manings"/>
+  <node id="5410743450" lat="33.7845549" lon="-84.3846693" version="1" timestamp="2018-02-13T20:18:08Z" changeset="56333482" uid="3272286" user="manings"/>
+  <node id="5410758668" lat="33.7812958" lon="-84.3847894" version="1" timestamp="2018-02-13T20:21:18Z" changeset="56333556" uid="3272286" user="manings"/>
+  <node id="5410758676" lat="33.7811792" lon="-84.3847364" version="1" timestamp="2018-02-13T20:21:18Z" changeset="56333556" uid="3272286" user="manings"/>
+  <node id="5416416513" lat="33.7832601" lon="-84.3871014" version="1" timestamp="2018-02-16T12:24:00Z" changeset="56412417" uid="6058023" user="muziriana"/>
+  <node id="5416485128" lat="33.7832570" lon="-84.3856674" version="2" timestamp="2018-08-24T11:48:26Z" changeset="61953996" uid="8240071" user="ravsjith"/>
+  <node id="5416485132" lat="33.7832570" lon="-84.3857054" version="1" timestamp="2018-02-16T13:05:35Z" changeset="56413398" uid="6058023" user="muziriana"/>
+  <node id="5416485174" lat="33.7832571" lon="-84.3857396" version="1" timestamp="2018-02-16T13:05:36Z" changeset="56413398" uid="6058023" user="muziriana"/>
+  <node id="5423994003" lat="33.7845724" lon="-84.3872040" version="1" timestamp="2018-02-20T07:02:30Z" changeset="56511803" uid="6371645" user="Iqhra"/>
+  <node id="5424001601" lat="33.7845702" lon="-84.3869687" version="1" timestamp="2018-02-20T07:05:18Z" changeset="56511858" uid="6371645" user="Iqhra"/>
+  <node id="5424001613" lat="33.7850244" lon="-84.3862833" version="1" timestamp="2018-02-20T07:05:18Z" changeset="56511858" uid="6371645" user="Iqhra"/>
+  <node id="5424005429" lat="33.7857247" lon="-84.3873689" version="1" timestamp="2018-02-20T07:06:10Z" changeset="56511877" uid="6371645" user="Iqhra"/>
+  <node id="5424005436" lat="33.7845694" lon="-84.3868795" version="1" timestamp="2018-02-20T07:06:10Z" changeset="56511877" uid="6371645" user="Iqhra"/>
+  <node id="5424126685" lat="33.7856276" lon="-84.3848404" version="1" timestamp="2018-02-20T08:43:49Z" changeset="56513783" uid="6371645" user="Iqhra"/>
+  <node id="5424129341" lat="33.7856318" lon="-84.3851428" version="1" timestamp="2018-02-20T08:45:54Z" changeset="56513835" uid="6371645" user="Iqhra"/>
+  <node id="5424129342" lat="33.7856334" lon="-84.3852595" version="1" timestamp="2018-02-20T08:45:54Z" changeset="56513835" uid="6371645" user="Iqhra"/>
+  <node id="5424129347" lat="33.7856269" lon="-84.3847860" version="1" timestamp="2018-02-20T08:45:54Z" changeset="56513835" uid="6371645" user="Iqhra"/>
+  <node id="5424129350" lat="33.7856374" lon="-84.3855444" version="1" timestamp="2018-02-20T08:46:22Z" changeset="56513844" uid="6371645" user="Iqhra"/>
+  <node id="5853527360" lat="33.7832577" lon="-84.3860446" version="2" timestamp="2020-03-07T03:40:15Z" changeset="81889001" uid="3009398" user="StackKorora"/>
+  <node id="5853527364" lat="33.7850905" lon="-84.3842522" version="1" timestamp="2018-08-24T11:48:26Z" changeset="61953996" uid="8240071" user="ravsjith"/>
+  <node id="5996566149" lat="33.7845648" lon="-84.3863724" version="4" timestamp="2021-10-02T22:00:25Z" changeset="112016477" uid="10019160" user="jScher">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5996566161" lat="33.7845231" lon="-84.3862822" version="4" timestamp="2021-10-02T22:00:19Z" changeset="112016477" uid="10019160" user="jScher">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="5996566168" lat="33.7844898" lon="-84.3844406" version="1" timestamp="2018-10-18T21:17:09Z" changeset="63660661" uid="3327134" user="afonit"/>
+  <node id="5996566171" lat="33.7846025" lon="-84.3843230" version="1" timestamp="2018-10-18T21:17:09Z" changeset="63660661" uid="3327134" user="afonit"/>
+  <node id="5996566175" lat="33.7844380" lon="-84.3842732" version="1" timestamp="2018-10-18T21:17:09Z" changeset="63660661" uid="3327134" user="afonit"/>
+  <node id="5996566177" lat="33.7843642" lon="-84.3843713" version="1" timestamp="2018-10-18T21:17:09Z" changeset="63660661" uid="3327134" user="afonit"/>
+  <node id="5996566184" lat="33.7832551" lon="-84.3846839" version="1" timestamp="2018-10-18T21:17:09Z" changeset="63660661" uid="3327134" user="afonit"/>
+  <node id="5996566286" lat="33.7833417" lon="-84.3846261" version="2" timestamp="2019-01-28T00:32:24Z" changeset="66690485" uid="8622775" user="jpmor"/>
+  <node id="6005931751" lat="33.7865631" lon="-84.3843272" version="1" timestamp="2018-10-22T21:20:36Z" changeset="63773552" uid="3327134" user="afonit"/>
+  <node id="6005931761" lat="33.7866553" lon="-84.3843984" version="1" timestamp="2018-10-22T21:20:36Z" changeset="63773552" uid="3327134" user="afonit"/>
+  <node id="6005931764" lat="33.7866717" lon="-84.3842394" version="1" timestamp="2018-10-22T21:20:36Z" changeset="63773552" uid="3327134" user="afonit"/>
+  <node id="6005931765" lat="33.7866249" lon="-84.3842426" version="1" timestamp="2018-10-22T21:20:36Z" changeset="63773552" uid="3327134" user="afonit"/>
+  <node id="6005931780" lat="33.7855761" lon="-84.3842181" version="1" timestamp="2018-10-22T21:20:36Z" changeset="63773552" uid="3327134" user="afonit"/>
+  <node id="6005931782" lat="33.7856199" lon="-84.3842800" version="1" timestamp="2018-10-22T21:20:36Z" changeset="63773552" uid="3327134" user="afonit"/>
+  <node id="6694597806" lat="33.7807596" lon="-84.3865023" version="1" timestamp="2019-08-08T11:14:13Z" changeset="73149414" uid="9196100" user="ntanniru"/>
+  <node id="6694597821" lat="33.7807613" lon="-84.3864427" version="1" timestamp="2019-08-08T11:14:13Z" changeset="73149414" uid="9196100" user="ntanniru"/>
+  <node id="6694851735" lat="33.7857038" lon="-84.3864641" version="1" timestamp="2019-08-08T13:15:18Z" changeset="73154998" uid="10159525" user="pbellamk"/>
+  <node id="6993966526" lat="33.7846044" lon="-84.3862821" version="3" timestamp="2021-10-02T22:00:29Z" changeset="112016477" uid="10019160" user="jScher">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="no"/>
+  </node>
+  <node id="7273504915" lat="33.7832574" lon="-84.3861162" version="1" timestamp="2020-03-07T03:40:15Z" changeset="81889001" uid="3009398" user="StackKorora"/>
+  <node id="7430760719" lat="33.7863069" lon="-84.3842978" version="1" timestamp="2020-04-21T16:12:09Z" changeset="83891193" uid="10313603" user="rserezo_lyft"/>
+  <node id="7430760724" lat="33.7866608" lon="-84.3860466" version="1" timestamp="2020-04-21T16:12:09Z" changeset="83891193" uid="10313603" user="rserezo_lyft"/>
+  <node id="7430760732" lat="33.7866608" lon="-84.3857149" version="1" timestamp="2020-04-21T16:12:09Z" changeset="83891193" uid="10313603" user="rserezo_lyft"/>
+  <node id="7430760747" lat="33.7866625" lon="-84.3862566" version="1" timestamp="2020-04-21T16:12:09Z" changeset="83891193" uid="10313603" user="rserezo_lyft"/>
+  <node id="7430760763" lat="33.7866600" lon="-84.3855107" version="1" timestamp="2020-04-21T16:12:09Z" changeset="83891193" uid="10313603" user="rserezo_lyft"/>
+  <node id="7430760772" lat="33.7866587" lon="-84.3852170" version="1" timestamp="2020-04-21T16:12:09Z" changeset="83891193" uid="10313603" user="rserezo_lyft"/>
+  <node id="7440198542" lat="33.7832569" lon="-84.3856256" version="1" timestamp="2020-04-24T03:43:44Z" changeset="84032102" uid="10302077" user="pchopson"/>
+  <node id="7440198544" lat="33.7832568" lon="-84.3855771" version="1" timestamp="2020-04-24T03:43:44Z" changeset="84032102" uid="10302077" user="pchopson"/>
+  <node id="7468337327" lat="33.7851835" lon="-84.3862838" version="1" timestamp="2020-04-30T20:19:11Z" changeset="84437106" uid="9233525" user="pscrimshaw_lyft"/>
+  <node id="7468337328" lat="33.7849834" lon="-84.3862832" version="1" timestamp="2020-04-30T20:19:11Z" changeset="84437106" uid="9233525" user="pscrimshaw_lyft"/>
+  <node id="8169480880" lat="33.7856397" lon="-84.3857138" version="1" timestamp="2020-11-27T05:40:49Z" changeset="94872786" uid="10159525" user="pbellamk"/>
+  <node id="8169480881" lat="33.7856438" lon="-84.3860766" version="1" timestamp="2020-11-27T05:40:49Z" changeset="94872786" uid="10159525" user="pbellamk"/>
+  <node id="8519882584" lat="33.7851115" lon="-84.3862836" version="1" timestamp="2021-03-15T07:19:40Z" changeset="101028924" uid="11558568" user="qkkmrg"/>
+  <node id="8765611112" lat="33.7857321" lon="-84.3876873" version="3" timestamp="2021-09-06T04:33:32Z" changeset="110773153" uid="10019160" user="jScher">
+    <tag k="crossing" v="marked"/>
+    <tag k="crossing:island" v="no"/>
+    <tag k="highway" v="crossing"/>
+    <tag k="tactile_paving" v="yes"/>
+  </node>
+  <node id="9515021659" lat="33.7807638" lon="-84.3856759" version="1" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory"/>
+  <node id="9515021663" lat="33.7807163" lon="-84.3856066" version="1" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory"/>
+  <node id="9515021671" lat="33.7807713" lon="-84.3852081" version="1" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory"/>
+  <node id="9515021672" lat="33.7807767" lon="-84.3849111" version="1" timestamp="2022-02-17T21:43:27Z" changeset="117539410" uid="186210" user="demory"/>
+  <node id="9564973115" lat="33.7845134" lon="-84.3877232" version="1" timestamp="2022-03-09T04:14:53Z" changeset="118260184" uid="11824233" user="kmarkish_lyft"/>
+  <node id="69227164" lat="33.7832430" lon="-84.3839460" version="2" timestamp="2009-12-12T03:44:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69227168" lat="33.7832146" lon="-84.3838461" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69227178" lat="33.7830280" lon="-84.3823510" version="2" timestamp="2009-12-12T03:44:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69227179" lat="33.7830270" lon="-84.3809460" version="2" timestamp="2009-12-12T03:44:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69227188" lat="33.7830160" lon="-84.3798918" version="4" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="69249210" lat="33.7854538" lon="-84.3830127" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69249214" lat="33.7854320" lon="-84.3821740" version="2" timestamp="2009-11-03T03:06:37Z" changeset="3021897" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249218" lat="33.7854200" lon="-84.3816420" version="2" timestamp="2009-12-12T03:47:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69249224" lat="33.7854060" lon="-84.3814430" version="2" timestamp="2009-12-12T03:47:06Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69339467" lat="33.7838440" lon="-84.3808580" version="2" timestamp="2009-12-12T04:04:27Z" changeset="3353549" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69387069" lat="33.7843553" lon="-84.3831975" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69387071" lat="33.7843311" lon="-84.3830841" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69387077" lat="33.7842950" lon="-84.3829151" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69387078" lat="33.7842980" lon="-84.3822400" version="3" timestamp="2011-03-04T14:37:41Z" changeset="7454884" uid="28852" user="Mark Gray">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69387083" lat="33.7842779" lon="-84.3789003" version="5" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="69421273" lat="33.7865608" lon="-84.3834845" version="4" timestamp="2014-06-29T17:44:54Z" changeset="23276069" uid="1946151" user="Jack the Ripper"/>
+  <node id="69421277" lat="33.7865802" lon="-84.3831523" version="5" timestamp="2014-06-29T17:44:54Z" changeset="23276069" uid="1946151" user="Jack the Ripper">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69421281" lat="33.7865321" lon="-84.3829880" version="5" timestamp="2018-02-13T20:27:41Z" changeset="56333681" uid="3272286" user="manings"/>
+  <node id="69488055" lat="33.7807920" lon="-84.3840920" version="3" timestamp="2010-06-01T18:36:50Z" changeset="4877162" uid="296534" user="bibbit"/>
+  <node id="69515728" lat="33.7823150" lon="-84.3839610" version="2" timestamp="2009-12-12T04:21:08Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69515842" lat="33.7817161" lon="-84.3840077" version="4" timestamp="2018-02-13T20:29:23Z" changeset="56333716" uid="3272286" user="manings">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69515849" lat="33.7825680" lon="-84.3839410" version="2" timestamp="2009-12-12T04:21:09Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69515852" lat="33.7831018" lon="-84.3838948" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69515855" lat="33.7833299" lon="-84.3837963" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69515856" lat="33.7835497" lon="-84.3836601" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69515858" lat="33.7840234" lon="-84.3832417" version="4" timestamp="2018-02-13T20:18:08Z" changeset="56333482" uid="3272286" user="manings"/>
+  <node id="69515861" lat="33.7842183" lon="-84.3831213" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69515865" lat="33.7844594" lon="-84.3830405" version="3" timestamp="2015-06-18T13:13:57Z" changeset="32050788" uid="94578" user="andygol"/>
+  <node id="69515868" lat="33.7847562" lon="-84.3830171" version="4" timestamp="2018-02-13T20:18:08Z" changeset="56333482" uid="3272286" user="manings"/>
+  <node id="69515870" lat="33.7859480" lon="-84.3830480" version="2" timestamp="2009-10-06T13:37:08Z" changeset="2760040" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69588598" lat="33.7811399" lon="-84.3825284" version="4" timestamp="2018-02-14T07:45:04Z" changeset="56345236" uid="5680733" user="venkanna37"/>
+  <node id="69588600" lat="33.7817480" lon="-84.3824990" version="3" timestamp="2009-10-06T13:42:50Z" changeset="2760040" uid="147510" user="woodpeck_fixbot">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69588601" lat="33.7835000" lon="-84.3823020" version="2" timestamp="2009-11-14T05:07:09Z" changeset="3110547" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69588605" lat="33.7841900" lon="-84.3822660" version="2" timestamp="2009-12-12T04:34:11Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69588608" lat="33.7843810" lon="-84.3822210" version="2" timestamp="2009-12-12T04:34:11Z" changeset="3353591" uid="147510" user="woodpeck_fixbot"/>
+  <node id="69589540" lat="33.7817938" lon="-84.3804622" version="4" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="69614561" lat="33.7817969" lon="-84.3794130" version="4" timestamp="2021-04-15T16:25:48Z" changeset="103006892" uid="9051457" user="robotstefan">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="traffic_signals" v="signal"/>
+  </node>
+  <node id="761541653" lat="33.7806713" lon="-84.3825657" version="2" timestamp="2012-05-25T00:22:40Z" changeset="11694641" uid="136601" user="maven149"/>
+  <node id="761541667" lat="33.7807107" lon="-84.3832310" version="1" timestamp="2010-06-01T18:36:53Z" changeset="4877162" uid="296534" user="bibbit"/>
+  <node id="1573471355" lat="33.7865065" lon="-84.3826002" version="2" timestamp="2018-02-13T20:27:41Z" changeset="56333681" uid="3272286" user="manings"/>
+  <node id="2087657866" lat="33.7830274" lon="-84.3832368" version="1" timestamp="2012-12-29T20:09:14Z" changeset="14455771" uid="186210" user="demory"/>
+  <node id="2087657867" lat="33.7830482" lon="-84.3834111" version="1" timestamp="2012-12-29T20:09:14Z" changeset="14455771" uid="186210" user="demory"/>
+  <node id="2087657868" lat="33.7831133" lon="-84.3836073" version="1" timestamp="2012-12-29T20:09:14Z" changeset="14455771" uid="186210" user="demory"/>
+  <node id="2277885172" lat="33.7817867" lon="-84.3807805" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="2390850322" lat="33.7868700" lon="-84.3832522" version="1" timestamp="2013-07-20T19:47:53Z" changeset="17027486" uid="127401" user="Ryan Lash"/>
+  <node id="2508783158" lat="33.7817713" lon="-84.3817051" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="2939367164" lat="33.7865501" lon="-84.3832875" version="1" timestamp="2014-06-29T17:44:52Z" changeset="23276069" uid="1946151" user="Jack the Ripper"/>
+  <node id="2939367166" lat="33.7866348" lon="-84.3833095" version="1" timestamp="2014-06-29T17:44:52Z" changeset="23276069" uid="1946151" user="Jack the Ripper"/>
+  <node id="2939367167" lat="33.7866456" lon="-84.3835064" version="1" timestamp="2014-06-29T17:44:52Z" changeset="23276069" uid="1946151" user="Jack the Ripper"/>
+  <node id="3602660735" lat="33.7853843" lon="-84.3830111" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3602660737" lat="33.7854506" lon="-84.3828834" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3602660743" lat="33.7855180" lon="-84.3830142" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3602660753" lat="33.7864569" lon="-84.3831320" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3602660757" lat="33.7865410" lon="-84.3830273" version="2" timestamp="2018-02-13T20:27:41Z" changeset="56333681" uid="3272286" user="manings">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3602660758" lat="33.7865552" lon="-84.3832646" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3602660759" lat="33.7866250" lon="-84.3832812" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="3602660762" lat="33.7867044" lon="-84.3831951" version="1" timestamp="2015-06-18T13:13:49Z" changeset="32050788" uid="94578" user="andygol">
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="4165941938" lat="33.7844186" lon="-84.3830544" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941940" lat="33.7843025" lon="-84.3829501" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941942" lat="33.7842563" lon="-84.3831088" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941945" lat="33.7842976" lon="-84.3823290" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941947" lat="33.7843537" lon="-84.3822272" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941949" lat="33.7843126" lon="-84.3821623" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="4165941951" lat="33.7842227" lon="-84.3822581" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941953" lat="33.7830279" lon="-84.3824370" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941955" lat="33.7830892" lon="-84.3823446" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941957" lat="33.7830279" lon="-84.3822760" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941959" lat="33.7829820" lon="-84.3823563" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941961" lat="33.7832434" lon="-84.3839696" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941963" lat="33.7833026" lon="-84.3838081" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941966" lat="33.7830903" lon="-84.3838958" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941968" lat="33.7831694" lon="-84.3837395" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941970" lat="33.7817303" lon="-84.3841340" version="3" timestamp="2019-01-28T00:32:23Z" changeset="66690485" uid="8622775" user="jpmor"/>
+  <node id="4165941972" lat="33.7818548" lon="-84.3839971" version="2" timestamp="2019-01-28T00:32:23Z" changeset="66690485" uid="8622775" user="jpmor"/>
+  <node id="4165941974" lat="33.7817076" lon="-84.3839184" version="1" timestamp="2016-05-04T15:27:32Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941976" lat="33.7815853" lon="-84.3840199" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941978" lat="33.7818514" lon="-84.3824870" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941980" lat="33.7817645" lon="-84.3824118" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="4165941982" lat="33.7816630" lon="-84.3825018" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941984" lat="33.7817452" lon="-84.3825963" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941988" lat="33.7808818" lon="-84.3840838" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941990" lat="33.7807841" lon="-84.3840080" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4165941992" lat="33.7807405" lon="-84.3840969" version="1" timestamp="2016-05-04T15:27:33Z" changeset="39099260" uid="3521724" user="headwatersolver"/>
+  <node id="4306377241" lat="33.7864806" lon="-84.3801983" version="1" timestamp="2016-07-16T18:44:22Z" changeset="40785359" uid="166668" user="trevorparker"/>
+  <node id="4338645785" lat="33.7864802" lon="-84.3812210" version="1" timestamp="2016-08-06T15:55:42Z" changeset="41289603" uid="3856911" user="bbgatch"/>
+  <node id="4338646192" lat="33.7864803" lon="-84.3809872" version="1" timestamp="2016-08-06T15:55:42Z" changeset="41289603" uid="3856911" user="bbgatch"/>
+  <node id="4338646193" lat="33.7864937" lon="-84.3819403" version="3" timestamp="2020-05-27T05:31:05Z" changeset="85807031" uid="10127754" user="sinreeya"/>
+  <node id="4338646199" lat="33.7864801" lon="-84.3813784" version="1" timestamp="2016-08-06T15:55:42Z" changeset="41289603" uid="3856911" user="bbgatch"/>
+  <node id="5198748651" lat="33.7865032" lon="-84.3821632" version="2" timestamp="2018-02-13T20:27:41Z" changeset="56333681" uid="3272286" user="manings">
+    <tag k="highway" v="traffic_signals"/>
+  </node>
+  <node id="5407255378" lat="33.7817174" lon="-84.3835723" version="1" timestamp="2018-02-12T13:16:29Z" changeset="56294263" uid="5659851" user="marthaleena"/>
+  <node id="5410743448" lat="33.7843863" lon="-84.3840270" version="1" timestamp="2018-02-13T20:18:08Z" changeset="56333482" uid="3272286" user="manings"/>
+  <node id="5410743449" lat="33.7843529" lon="-84.3837480" version="1" timestamp="2018-02-13T20:18:08Z" changeset="56333482" uid="3272286" user="manings"/>
+  <node id="5411630556" lat="33.7843758" lon="-84.3839397" version="1" timestamp="2018-02-14T07:08:57Z" changeset="56344368" uid="5680733" user="venkanna37"/>
+  <node id="5411694315" lat="33.7812429" lon="-84.3825187" version="1" timestamp="2018-02-14T07:45:03Z" changeset="56345236" uid="5680733" user="venkanna37"/>
+  <node id="5412021439" lat="33.7857540" lon="-84.3821708" version="1" timestamp="2018-02-14T11:00:28Z" changeset="56349485" uid="5680733" user="venkanna37"/>
+  <node id="5416485123" lat="33.7830275" lon="-84.3831385" version="1" timestamp="2018-02-16T13:05:35Z" changeset="56413398" uid="6058023" user="muziriana"/>
+  <node id="5416485161" lat="33.7830237" lon="-84.3805260" version="1" timestamp="2018-02-16T13:05:36Z" changeset="56413398" uid="6058023" user="muziriana"/>
+  <node id="5416485164" lat="33.7843165" lon="-84.3817482" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="5416485169" lat="33.7843157" lon="-84.3815641" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="5416485172" lat="33.7831962" lon="-84.3823335" version="1" timestamp="2018-02-16T13:05:36Z" changeset="56413398" uid="6058023" user="muziriana"/>
+  <node id="5416547097" lat="33.7817825" lon="-84.3809309" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="5416547098" lat="33.7830276" lon="-84.3818336" version="1" timestamp="2018-02-16T13:48:22Z" changeset="56414404" uid="6058023" user="muziriana"/>
+  <node id="5416547103" lat="33.7817684" lon="-84.3820296" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="5424132517" lat="33.7827554" lon="-84.3823825" version="1" timestamp="2018-02-20T08:54:07Z" changeset="56514024" uid="6371645" user="Iqhra"/>
+  <node id="5424133416" lat="33.7842953" lon="-84.3828515" version="1" timestamp="2018-02-20T08:51:45Z" changeset="56513970" uid="6371645" user="Iqhra"/>
+  <node id="5424144260" lat="33.7817787" lon="-84.3811672" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="5674179651" lat="33.7864052" lon="-84.3821642" version="1" timestamp="2018-06-08T05:53:43Z" changeset="59656020" uid="4647004" user="Bhojaraj"/>
+  <node id="5674179652" lat="33.7865040" lon="-84.3822701" version="1" timestamp="2018-06-08T05:53:43Z" changeset="59656020" uid="4647004" user="Bhojaraj"/>
+  <node id="5674179654" lat="33.7864932" lon="-84.3818095" version="1" timestamp="2018-06-08T05:53:43Z" changeset="59656020" uid="4647004" user="Bhojaraj"/>
+  <node id="5674181090" lat="33.7855088" lon="-84.3821732" version="1" timestamp="2018-06-08T05:58:47Z" changeset="59656117" uid="4647004" user="Bhojaraj"/>
+  <node id="5674181091" lat="33.7854301" lon="-84.3820890" version="1" timestamp="2018-06-08T05:58:47Z" changeset="59656117" uid="4647004" user="Bhojaraj"/>
+  <node id="5674181092" lat="33.7854348" lon="-84.3822815" version="1" timestamp="2018-06-08T05:58:47Z" changeset="59656117" uid="4647004" user="Bhojaraj"/>
+  <node id="5834678396" lat="33.7864804" lon="-84.3808239" version="1" timestamp="2018-08-15T16:14:05Z" changeset="61690508" uid="8241265" user="herbm123"/>
+  <node id="5849239947" lat="33.7842813" lon="-84.3792574" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="5853527355" lat="33.7853746" lon="-84.3801161" version="1" timestamp="2018-08-24T11:48:25Z" changeset="61953996" uid="8240071" user="ravsjith"/>
+  <node id="5853527365" lat="33.7864806" lon="-84.3803145" version="1" timestamp="2018-08-24T11:48:26Z" changeset="61953996" uid="8240071" user="ravsjith"/>
+  <node id="6005931644" lat="33.7817960" lon="-84.3803653" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6005931662" lat="33.7817910" lon="-84.3805692" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6005931668" lat="33.7830218" lon="-84.3800042" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="6005931681" lat="33.7842795" lon="-84.3790100" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory">
+    <tag k="crossing" v="traffic_signals"/>
+    <tag k="highway" v="crossing"/>
+  </node>
+  <node id="6694729109" lat="33.7853923" lon="-84.3808634" version="1" timestamp="2019-08-08T12:16:47Z" changeset="73152200" uid="10145794" user="srmudava"/>
+  <node id="6694851733" lat="33.7842997" lon="-84.3801645" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="6702906075" lat="33.7843083" lon="-84.3808154" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="6702906078" lat="33.7843077" lon="-84.3805239" version="2" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="7151205661" lat="33.7823655" lon="-84.3824276" version="1" timestamp="2020-01-22T12:39:05Z" changeset="79916623" uid="10324067" user="adrianb_telenav"/>
+  <node id="7223816728" lat="33.7817329" lon="-84.3830291" version="1" timestamp="2020-02-19T02:23:31Z" changeset="81195336" uid="10457692" user="pravallg"/>
+  <node id="7223816735" lat="33.7822138" lon="-84.3824451" version="1" timestamp="2020-02-19T02:23:31Z" changeset="81195336" uid="10457692" user="pravallg"/>
+  <node id="7258187490" lat="33.7853836" lon="-84.3804953" version="1" timestamp="2020-03-02T15:24:53Z" changeset="81687156" uid="10324067" user="adrianb_telenav"/>
+  <node id="7258187491" lat="33.7864805" lon="-84.3804985" version="1" timestamp="2020-03-02T15:24:53Z" changeset="81687156" uid="10324067" user="adrianb_telenav"/>
+  <node id="7415937421" lat="33.7860504" lon="-84.3830649" version="1" timestamp="2020-04-17T22:30:04Z" changeset="83727923" uid="8143452" user="SeyfuLakew_lyft"/>
+  <node id="7430645949" lat="33.7852684" lon="-84.3830112" version="1" timestamp="2020-04-21T15:34:37Z" changeset="83889674" uid="10313603" user="rserezo_lyft"/>
+  <node id="7477484616" lat="33.7851388" lon="-84.3830127" version="1" timestamp="2020-05-04T02:24:29Z" changeset="84587836" uid="10208965" user="jacorohi"/>
+  <node id="8296703969" lat="33.7842969" lon="-84.3824874" version="1" timestamp="2021-01-06T13:14:28Z" changeset="97051612" uid="11335781" user="cpligovka_lyft"/>
+  <node id="8323499758" lat="33.7853960" lon="-84.3810180" version="1" timestamp="2021-01-15T06:59:09Z" changeset="97536960" uid="11824233" user="kmarkish_lyft"/>
+  <node id="8482370929" lat="33.7854135" lon="-84.3815493" version="1" timestamp="2021-03-03T10:01:40Z" changeset="100339034" uid="10297537" user="appank"/>
+  <node id="8482370936" lat="33.7864852" lon="-84.3815467" version="1" timestamp="2021-03-03T10:01:40Z" changeset="100339034" uid="10297537" user="appank"/>
+  <node id="9537493832" lat="33.7842883" lon="-84.3796030" version="1" timestamp="2022-02-26T17:24:50Z" changeset="117886530" uid="186210" user="demory"/>
+  <node id="2390850312" lat="33.7876229" lon="-84.3835074" version="1" timestamp="2013-07-20T19:47:52Z" changeset="17027486" uid="127401" user="Ryan Lash"/>
+  <node id="7058941335" lat="33.7871125" lon="-84.3833344" version="1" timestamp="2019-12-16T01:54:59Z" changeset="78444029" uid="10192114" user="dviraja"/>
+
+</osm>
