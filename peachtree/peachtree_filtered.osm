@@ -1,0 +1,1125 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-101987' action='modify' visible='true' lat='33.78325598096' lon='-84.38514676614' />
+  <node id='-102004' action='modify' visible='true' lat='33.78302766094' lon='-84.38285625428' />
+  <node id='69200112' action='delete' timestamp='2017-10-17T11:51:29Z' uid='3272286' user='manings' visible='true' version='5' changeset='53009262' lat='33.7814408' lon='-84.3863849' />
+  <node id='69200114' action='delete' timestamp='2013-08-25T15:15:51Z' uid='127401' user='Ryan Lash' visible='true' version='3' changeset='17500867' lat='33.7821105' lon='-84.3863404'>
+    <tag k='barrier' v='block' />
+  </node>
+  <node id='69200116' action='delete' timestamp='2009-12-12T03:38:03Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783258' lon='-84.386289' />
+  <node id='69200118' action='delete' timestamp='2009-10-06T13:11:27Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.784564' lon='-84.386282' />
+  <node id='69200121' action='delete' timestamp='2009-12-12T03:38:03Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785593' lon='-84.386285' />
+  <node id='69200123' action='delete' timestamp='2009-12-12T03:38:03Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785614' lon='-84.38628' />
+  <node id='69200127' action='delete' timestamp='2009-12-12T03:38:03Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785636' lon='-84.38626' />
+  <node id='69227156' action='delete' timestamp='2009-11-14T04:45:45Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3110547' lat='33.783262' lon='-84.387834' />
+  <node id='69227157' action='delete' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783258' lon='-84.38622' />
+  <node id='69227161' timestamp='2009-10-06T13:14:12Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.783255' lon='-84.384652' />
+  <node id='69227164' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783243' lon='-84.383946' />
+  <node id='69227168' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7832146' lon='-84.3838461' />
+  <node id='69227178' action='delete' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783028' lon='-84.382351' />
+  <node id='69227179' action='delete' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783027' lon='-84.380946' />
+  <node id='69227188' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='4' changeset='117886530' lat='33.783016' lon='-84.3798918' />
+  <node id='69228762' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='4' changeset='118212102' lat='33.7736828' lon='-84.3847798'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='69249210' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7854538' lon='-84.3830127' />
+  <node id='69249214' timestamp='2009-11-03T03:06:37Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3021897' lat='33.785432' lon='-84.382174' />
+  <node id='69249218' action='delete' timestamp='2009-12-12T03:47:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.78542' lon='-84.381642' />
+  <node id='69249224' action='delete' timestamp='2009-12-12T03:47:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785406' lon='-84.381443' />
+  <node id='69249238' action='delete' timestamp='2009-12-12T03:47:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785647' lon='-84.386221' />
+  <node id='69249240' action='delete' timestamp='2009-10-06T13:16:36Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.785646' lon='-84.386165' />
+  <node id='69249243' action='delete' timestamp='2009-12-12T03:47:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785619' lon='-84.384219' />
+  <node id='69249251' action='delete' timestamp='2009-11-03T03:06:37Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3021897' lat='33.785735' lon='-84.387815' />
+  <node id='69249253' action='delete' timestamp='2009-10-06T13:16:36Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.785701' lon='-84.386342' />
+  <node id='69249258' action='delete' timestamp='2009-12-12T03:47:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785688' lon='-84.386307' />
+  <node id='69339467' action='delete' timestamp='2009-12-12T04:04:27Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783844' lon='-84.380858' />
+  <node id='69350683' action='delete' timestamp='2009-12-12T04:06:47Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.777454' lon='-84.385871' />
+  <node id='69350685' action='delete' timestamp='2009-11-14T04:51:11Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3110547' lat='33.777356' lon='-84.384417' />
+  <node id='69365777' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='4' changeset='118212102' lat='33.7750094' lon='-84.3861156'>
+    <tag k='highway' v='stop' />
+    <tag k='stop' v='all' />
+  </node>
+  <node id='69365780' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='4' changeset='118212102' lat='33.774916' lon='-84.384648'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='69372813' action='delete' timestamp='2009-12-12T04:12:05Z' uid='147510' user='woodpeck_fixbot' visible='true' version='3' changeset='3353549' lat='33.781503' lon='-84.387802'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69372822' action='delete' timestamp='2022-03-09T04:14:53Z' uid='11824233' user='kmarkish_lyft' visible='true' version='3' changeset='118260184' lat='33.7844915' lon='-84.3878218' />
+  <node id='69387063' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='5' changeset='56333482' lat='33.7844634' lon='-84.3843478' />
+  <node id='69387066' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='5' changeset='56333482' lat='33.7844182' lon='-84.3842152' />
+  <node id='69387069' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7843553' lon='-84.3831975' />
+  <node id='69387071' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7843311' lon='-84.3830841' />
+  <node id='69387077' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.784295' lon='-84.3829151' />
+  <node id='69387078' action='delete' timestamp='2011-03-04T14:37:41Z' uid='28852' user='Mark Gray' visible='true' version='3' changeset='7454884' lat='33.784298' lon='-84.38224'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69387083' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='5' changeset='117886530' lat='33.7842779' lon='-84.3789003'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='69387088' action='delete' timestamp='2009-12-12T03:55:24Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.784563' lon='-84.38617' />
+  <node id='69421268' action='delete' timestamp='2009-10-06T13:28:45Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.786663' lon='-84.386219' />
+  <node id='69421271' timestamp='2009-12-12T04:01:18Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.786655' lon='-84.384328' />
+  <node id='69421273' timestamp='2014-06-29T17:44:54Z' uid='1946151' user='Jack the Ripper' visible='true' version='4' changeset='23276069' lat='33.7865608' lon='-84.3834845' />
+  <node id='69421277' timestamp='2014-06-29T17:44:54Z' uid='1946151' user='Jack the Ripper' visible='true' version='5' changeset='23276069' lat='33.7865802' lon='-84.3831523'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69421281' timestamp='2018-02-13T20:27:41Z' uid='3272286' user='manings' visible='true' version='5' changeset='56333681' lat='33.7865321' lon='-84.382988' />
+  <node id='69436045' action='delete' timestamp='2009-12-12T04:05:31Z' uid='147510' user='woodpeck_fixbot' visible='true' version='3' changeset='3353591' lat='33.772239' lon='-84.384913'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69488040' action='delete' timestamp='2009-12-12T04:16:21Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.780764' lon='-84.385604' />
+  <node id='69488048' action='delete' timestamp='2009-12-12T04:16:21Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.780782' lon='-84.384622' />
+  <node id='69488055' timestamp='2010-06-01T18:36:50Z' uid='296534' user='bibbit' visible='true' version='3' changeset='4877162' lat='33.780792' lon='-84.384092' />
+  <node id='69515337' action='delete' timestamp='2009-10-06T13:37:05Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.778632' lon='-84.385759' />
+  <node id='69515340' action='delete' timestamp='2009-12-12T04:21:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.778529' lon='-84.384306' />
+  <node id='69515728' timestamp='2009-12-12T04:21:08Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.782315' lon='-84.383961' />
+  <node id='69515840' action='delete' timestamp='2009-11-14T05:02:35Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3110547' lat='33.776155' lon='-84.384531' />
+  <node id='69515841' action='delete' timestamp='2010-06-01T18:55:57Z' uid='296534' user='bibbit' visible='true' version='4' changeset='4877350' lat='33.779526' lon='-84.384212'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69515842' timestamp='2018-02-13T20:29:23Z' uid='3272286' user='manings' visible='true' version='4' changeset='56333716' lat='33.7817161' lon='-84.3840077'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69515849' timestamp='2009-12-12T04:21:09Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.782568' lon='-84.383941' />
+  <node id='69515852' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7831018' lon='-84.3838948' />
+  <node id='69515855' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7833299' lon='-84.3837963' />
+  <node id='69515856' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7835497' lon='-84.3836601' />
+  <node id='69515858' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='4' changeset='56333482' lat='33.7840234' lon='-84.3832417' />
+  <node id='69515861' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7842183' lon='-84.3831213' />
+  <node id='69515865' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7844594' lon='-84.3830405' />
+  <node id='69515868' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='4' changeset='56333482' lat='33.7847562' lon='-84.3830171' />
+  <node id='69515870' timestamp='2009-10-06T13:37:08Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.785948' lon='-84.383048' />
+  <node id='69531969' action='delete' timestamp='2009-12-12T04:23:21Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.776253' lon='-84.38599' />
+  <node id='69538848' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='4' changeset='117539410' lat='33.7808985' lon='-84.38462'>
+    <tag k='crossing' v='marked' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='69538850' action='delete' timestamp='2009-12-12T04:24:29Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.780945' lon='-84.38463' />
+  <node id='69538852' action='delete' timestamp='2009-11-14T05:03:59Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3110547' lat='33.78148' lon='-84.384873' />
+  <node id='69538856' timestamp='2009-10-06T13:39:22Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.781582' lon='-84.384908' />
+  <node id='69538863' action='delete' timestamp='2009-12-12T04:24:30Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.784844' lon='-84.38428' />
+  <node id='69538867' action='delete' timestamp='2009-10-06T13:39:23Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.785332' lon='-84.384225' />
+  <node id='69538870' action='delete' timestamp='2009-12-12T04:24:30Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.785478' lon='-84.384216' />
+  <node id='69538871' action='delete' timestamp='2009-11-14T05:03:59Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3110547' lat='33.786579' lon='-84.384329' />
+  <node id='69576973' action='delete' timestamp='2009-10-06T13:42:00Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.779476' lon='-84.385685' />
+  <node id='69576975' action='delete' timestamp='2010-06-01T18:57:55Z' uid='296534' user='bibbit' visible='true' version='4' changeset='4877378' lat='33.779538' lon='-84.385694' />
+  <node id='69576978' action='delete' timestamp='2009-12-12T04:32:44Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.779594' lon='-84.385698' />
+  <node id='69576980' action='delete' timestamp='2009-12-12T04:32:44Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.780434' lon='-84.385623' />
+  <node id='69588595' action='delete' timestamp='2012-01-10T23:42:46Z' uid='575563' user='kentix' visible='true' version='3' changeset='10356819' lat='33.7803196' lon='-84.3825833' />
+  <node id='69588598' action='delete' timestamp='2018-02-14T07:45:04Z' uid='5680733' user='venkanna37' visible='true' version='4' changeset='56345236' lat='33.7811399' lon='-84.3825284' />
+  <node id='69588600' action='delete' timestamp='2009-10-06T13:42:50Z' uid='147510' user='woodpeck_fixbot' visible='true' version='3' changeset='2760040' lat='33.781748' lon='-84.382499'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69588601' action='delete' timestamp='2009-11-14T05:07:09Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3110547' lat='33.7835' lon='-84.382302' />
+  <node id='69588605' action='delete' timestamp='2009-12-12T04:34:11Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.78419' lon='-84.382266' />
+  <node id='69588608' action='delete' timestamp='2009-12-12T04:34:11Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.784381' lon='-84.382221' />
+  <node id='69589540' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='4' changeset='117886530' lat='33.7817938' lon='-84.3804622'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='69614527' action='delete' timestamp='2017-10-17T11:51:29Z' uid='3272286' user='manings' visible='true' version='6' changeset='53009262' lat='33.7814747' lon='-84.3859517' />
+  <node id='69614530' timestamp='2009-12-12T04:39:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.781472' lon='-84.385318' />
+  <node id='69614533' timestamp='2009-11-03T03:17:33Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3021897' lat='33.781484' lon='-84.385216' />
+  <node id='69614540' timestamp='2009-10-06T13:45:20Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.781507' lon='-84.385109' />
+  <node id='69614542' timestamp='2018-02-13T20:29:23Z' uid='3272286' user='manings' visible='true' version='3' changeset='56333716' lat='33.7816548' lon='-84.3847303' />
+  <node id='69614545' timestamp='2018-02-13T20:29:23Z' uid='3272286' user='manings' visible='true' version='3' changeset='56333716' lat='33.7817016' lon='-84.3845634' />
+  <node id='69614548' timestamp='2018-02-13T20:29:23Z' uid='3272286' user='manings' visible='true' version='3' changeset='56333716' lat='33.781726' lon='-84.3844083' />
+  <node id='69614561' action='delete' timestamp='2021-04-15T16:25:48Z' uid='9051457' user='robotstefan' visible='true' version='4' changeset='103006892' lat='33.7817969' lon='-84.379413'>
+    <tag k='highway' v='traffic_signals' />
+    <tag k='traffic_signals' v='signal' />
+  </node>
+  <node id='476017728' action='delete' timestamp='2017-10-17T11:51:29Z' uid='3272286' user='manings' visible='true' version='2' changeset='53009262' lat='33.7814411' lon='-84.3866785' />
+  <node id='476017918' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='2' changeset='117539410' lat='33.7807593' lon='-84.3866731' />
+  <node id='476017951' action='delete' timestamp='2013-08-25T15:15:52Z' uid='127401' user='Ryan Lash' visible='true' version='2' changeset='17500867' lat='33.7807628' lon='-84.3859742' />
+  <node id='761541653' action='delete' timestamp='2012-05-25T00:22:40Z' uid='136601' user='maven149' visible='true' version='2' changeset='11694641' lat='33.7806713' lon='-84.3825657' />
+  <node id='761541667' action='delete' timestamp='2010-06-01T18:36:53Z' uid='296534' user='bibbit' visible='true' version='1' changeset='4877162' lat='33.7807107' lon='-84.383231' />
+  <node id='1573471355' timestamp='2018-02-13T20:27:41Z' uid='3272286' user='manings' visible='true' version='2' changeset='56333681' lat='33.7865065' lon='-84.3826002' />
+  <node id='2087657866' timestamp='2012-12-29T20:09:14Z' uid='186210' user='demory' visible='true' version='1' changeset='14455771' lat='33.7830274' lon='-84.3832368' />
+  <node id='2087657867' timestamp='2012-12-29T20:09:14Z' uid='186210' user='demory' visible='true' version='1' changeset='14455771' lat='33.7830482' lon='-84.3834111' />
+  <node id='2087657868' timestamp='2012-12-29T20:09:14Z' uid='186210' user='demory' visible='true' version='1' changeset='14455771' lat='33.7831133' lon='-84.3836073' />
+  <node id='2277885172' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7817867' lon='-84.3807805' />
+  <node id='2390850312' timestamp='2013-07-20T19:47:52Z' uid='127401' user='Ryan Lash' visible='true' version='1' changeset='17027486' lat='33.7876229' lon='-84.3835074' />
+  <node id='2390850322' timestamp='2013-07-20T19:47:53Z' uid='127401' user='Ryan Lash' visible='true' version='1' changeset='17027486' lat='33.78687' lon='-84.3832522' />
+  <node id='2423191301' action='delete' timestamp='2013-08-24T16:27:09Z' uid='586822' user='Saikrishna Arcot' visible='true' version='2' changeset='17486661' lat='33.7807617' lon='-84.38618'>
+    <tag k='bus' v='yes' />
+    <tag k='name' v='Midtown MARTA' />
+    <tag k='public_transport' v='stop_position' />
+  </node>
+  <node id='2508783158' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7817713' lon='-84.3817051' />
+  <node id='2939367164' timestamp='2014-06-29T17:44:52Z' uid='1946151' user='Jack the Ripper' visible='true' version='1' changeset='23276069' lat='33.7865501' lon='-84.3832875' />
+  <node id='2939367165' timestamp='2014-06-29T17:44:52Z' uid='1946151' user='Jack the Ripper' visible='true' version='1' changeset='23276069' lat='33.7866064' lon='-84.3841904' />
+  <node id='2939367166' timestamp='2014-06-29T17:44:52Z' uid='1946151' user='Jack the Ripper' visible='true' version='1' changeset='23276069' lat='33.7866348' lon='-84.3833095' />
+  <node id='2939367167' timestamp='2014-06-29T17:44:52Z' uid='1946151' user='Jack the Ripper' visible='true' version='1' changeset='23276069' lat='33.7866456' lon='-84.3835064' />
+  <node id='2939367168' timestamp='2014-06-29T17:44:52Z' uid='1946151' user='Jack the Ripper' visible='true' version='1' changeset='23276069' lat='33.7866774' lon='-84.384209' />
+  <node id='3522551808' action='delete' timestamp='2015-05-16T20:55:21Z' uid='88771' user='mjn' visible='true' version='1' changeset='31212302' lat='33.7832598' lon='-84.3870002' />
+  <node id='3602660735' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.7853843' lon='-84.3830111'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3602660737' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.7854506' lon='-84.3828834'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3602660743' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.785518' lon='-84.3830142'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3602660746' action='delete' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.7856542' lon='-84.384223' />
+  <node id='3602660753' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.7864569' lon='-84.383132'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3602660757' timestamp='2018-02-13T20:27:41Z' uid='3272286' user='manings' visible='true' version='2' changeset='56333681' lat='33.786541' lon='-84.3830273'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3602660758' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.7865552' lon='-84.3832646'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3602660759' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.786625' lon='-84.3832812'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='3602660762' timestamp='2015-06-18T13:13:49Z' uid='94578' user='andygol' visible='true' version='1' changeset='32050788' lat='33.7867044' lon='-84.3831951'>
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4165941938' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7844186' lon='-84.3830544' />
+  <node id='4165941940' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7843025' lon='-84.3829501' />
+  <node id='4165941942' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7842563' lon='-84.3831088' />
+  <node id='4165941945' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7842976' lon='-84.382329' />
+  <node id='4165941947' action='delete' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7843537' lon='-84.3822272' />
+  <node id='4165941949' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7843126' lon='-84.3821623' />
+  <node id='4165941951' action='delete' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7842227' lon='-84.3822581' />
+  <node id='4165941953' action='delete' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7830279' lon='-84.382437' />
+  <node id='4165941955' action='delete' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7830892' lon='-84.3823446' />
+  <node id='4165941957' action='delete' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7830279' lon='-84.382276' />
+  <node id='4165941959' action='delete' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.782982' lon='-84.3823563' />
+  <node id='4165941961' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7832434' lon='-84.3839696' />
+  <node id='4165941963' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7833026' lon='-84.3838081' />
+  <node id='4165941966' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7830903' lon='-84.3838958' />
+  <node id='4165941968' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7831694' lon='-84.3837395' />
+  <node id='4165941970' timestamp='2019-01-28T00:32:23Z' uid='8622775' user='jpmor' visible='true' version='3' changeset='66690485' lat='33.7817303' lon='-84.384134' />
+  <node id='4165941972' timestamp='2019-01-28T00:32:23Z' uid='8622775' user='jpmor' visible='true' version='2' changeset='66690485' lat='33.7818548' lon='-84.3839971' />
+  <node id='4165941974' timestamp='2016-05-04T15:27:32Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7817076' lon='-84.3839184' />
+  <node id='4165941976' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7815853' lon='-84.3840199' />
+  <node id='4165941978' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7818514' lon='-84.382487' />
+  <node id='4165941980' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7817645' lon='-84.3824118' />
+  <node id='4165941982' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.781663' lon='-84.3825018' />
+  <node id='4165941984' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7817452' lon='-84.3825963' />
+  <node id='4165941986' action='delete' timestamp='2020-04-26T04:47:29Z' uid='10302077' user='pchopson' visible='true' version='2' changeset='84128306' lat='33.7807898' lon='-84.384188' />
+  <node id='4165941988' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7808818' lon='-84.3840838' />
+  <node id='4165941990' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7807841' lon='-84.384008' />
+  <node id='4165941992' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7807405' lon='-84.3840969' />
+  <node id='4165941996' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7795785' lon='-84.384207' />
+  <node id='4165942000' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7794877' lon='-84.3842156' />
+  <node id='4165942012' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7785717' lon='-84.384302' />
+  <node id='4165942016' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7784845' lon='-84.3843102' />
+  <node id='4165942030' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7773207' lon='-84.3844203' />
+  <node id='4165942034' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.777409' lon='-84.384412' />
+  <node id='4165942042' action='delete' timestamp='2016-05-04T15:27:33Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7761029' lon='-84.3845359' />
+  <node id='4165942046' action='delete' timestamp='2016-05-04T15:27:34Z' uid='3521724' user='headwatersolver' visible='true' version='1' changeset='39099260' lat='33.7762099' lon='-84.3845258' />
+  <node id='4165942054' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102' lat='33.7749645' lon='-84.3846433'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4165942058' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102' lat='33.7748677' lon='-84.3846525'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4165942067' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102' lat='33.7737474' lon='-84.384775'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4165942071' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102' lat='33.7736168' lon='-84.3847848'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4165942087' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='3' changeset='118212102' lat='33.7723375' lon='-84.3849035'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='4306377241' action='delete' timestamp='2016-07-16T18:44:22Z' uid='166668' user='trevorparker' visible='true' version='1' changeset='40785359' lat='33.7864806' lon='-84.3801983' />
+  <node id='4338645785' action='delete' timestamp='2016-08-06T15:55:42Z' uid='3856911' user='bbgatch' visible='true' version='1' changeset='41289603' lat='33.7864802' lon='-84.381221' />
+  <node id='4338646192' action='delete' timestamp='2016-08-06T15:55:42Z' uid='3856911' user='bbgatch' visible='true' version='1' changeset='41289603' lat='33.7864803' lon='-84.3809872' />
+  <node id='4338646193' action='delete' timestamp='2020-05-27T05:31:05Z' uid='10127754' user='sinreeya' visible='true' version='3' changeset='85807031' lat='33.7864937' lon='-84.3819403' />
+  <node id='4338646199' action='delete' timestamp='2016-08-06T15:55:42Z' uid='3856911' user='bbgatch' visible='true' version='1' changeset='41289603' lat='33.7864801' lon='-84.3813784' />
+  <node id='5172831207' action='delete' timestamp='2017-10-17T11:51:28Z' uid='3272286' user='manings' visible='true' version='1' changeset='53009262' lat='33.7814414' lon='-84.3860618' />
+  <node id='5172831209' action='delete' timestamp='2017-10-17T11:51:28Z' uid='3272286' user='manings' visible='true' version='1' changeset='53009262' lat='33.7815799' lon='-84.3877008' />
+  <node id='5172831210' action='delete' timestamp='2017-10-17T11:51:28Z' uid='3272286' user='manings' visible='true' version='1' changeset='53009262' lat='33.7815309' lon='-84.387307' />
+  <node id='5172831211' action='delete' timestamp='2017-10-17T11:51:28Z' uid='3272286' user='manings' visible='true' version='1' changeset='53009262' lat='33.7815028' lon='-84.3870741' />
+  <node id='5172831212' action='delete' timestamp='2017-10-17T11:51:28Z' uid='3272286' user='manings' visible='true' version='1' changeset='53009262' lat='33.7815071' lon='-84.3863841' />
+  <node id='5172831213' action='delete' timestamp='2017-10-17T11:51:28Z' uid='3272286' user='manings' visible='true' version='1' changeset='53009262' lat='33.781513' lon='-84.3860537' />
+  <node id='5198748651' action='delete' timestamp='2018-02-13T20:27:41Z' uid='3272286' user='manings' visible='true' version='2' changeset='56333681' lat='33.7865032' lon='-84.3821632'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
+  <node id='5406938417' action='delete' timestamp='2018-02-12T10:36:31Z' uid='6443638' user='Teesta' visible='true' version='1' changeset='56289500' lat='33.7866581' lon='-84.386622' />
+  <node id='5407194951' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102' lat='33.7728688' lon='-84.3848514' />
+  <node id='5407255378' timestamp='2018-02-12T13:16:29Z' uid='5659851' user='marthaleena' visible='true' version='1' changeset='56294263' lat='33.7817174' lon='-84.3835723' />
+  <node id='5407280815' action='delete' timestamp='2018-02-12T13:25:19Z' uid='5659851' user='marthaleena' visible='true' version='1' changeset='56294550' lat='33.7866613' lon='-84.3858254' />
+  <node id='5410723025' action='delete' timestamp='2018-02-13T20:14:48Z' uid='3272286' user='manings' visible='true' version='1' changeset='56333410' lat='33.7866584' lon='-84.3851334' />
+  <node id='5410723026' action='delete' timestamp='2018-02-13T20:14:48Z' uid='3272286' user='manings' visible='true' version='1' changeset='56333410' lat='33.7866588' lon='-84.3852326' />
+  <node id='5410743448' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='1' changeset='56333482' lat='33.7843863' lon='-84.384027' />
+  <node id='5410743449' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='1' changeset='56333482' lat='33.7843529' lon='-84.383748' />
+  <node id='5410743450' action='delete' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='1' changeset='56333482' lat='33.7845549' lon='-84.3846693' />
+  <node id='5410758668' action='delete' timestamp='2018-02-13T20:21:18Z' uid='3272286' user='manings' visible='true' version='1' changeset='56333556' lat='33.7812958' lon='-84.3847894' />
+  <node id='5410758676' action='delete' timestamp='2018-02-13T20:21:18Z' uid='3272286' user='manings' visible='true' version='1' changeset='56333556' lat='33.7811792' lon='-84.3847364' />
+  <node id='5411630556' timestamp='2018-02-14T07:08:57Z' uid='5680733' user='venkanna37' visible='true' version='1' changeset='56344368' lat='33.7843758' lon='-84.3839397' />
+  <node id='5411694315' action='delete' timestamp='2018-02-14T07:45:03Z' uid='5680733' user='venkanna37' visible='true' version='1' changeset='56345236' lat='33.7812429' lon='-84.3825187' />
+  <node id='5411918866' action='delete' timestamp='2018-02-14T09:57:26Z' uid='5438123' user='oormilavinod' visible='true' version='1' changeset='56348235' lat='33.7767942' lon='-84.3844703' />
+  <node id='5412021439' action='delete' timestamp='2018-02-14T11:00:28Z' uid='5680733' user='venkanna37' visible='true' version='1' changeset='56349485' lat='33.785754' lon='-84.3821708' />
+  <node id='5416416513' action='delete' timestamp='2018-02-16T12:24:00Z' uid='6058023' user='muziriana' visible='true' version='1' changeset='56412417' lat='33.7832601' lon='-84.3871014' />
+  <node id='5416479063' action='delete' timestamp='2018-02-16T13:00:36Z' uid='5648480' user='TeresaPeteti' visible='true' version='1' changeset='56413286' lat='33.7746026' lon='-84.384677' />
+  <node id='5416485123' timestamp='2018-02-16T13:05:35Z' uid='6058023' user='muziriana' visible='true' version='1' changeset='56413398' lat='33.7830275' lon='-84.3831385' />
+  <node id='5416485128' action='delete' timestamp='2018-08-24T11:48:26Z' uid='8240071' user='ravsjith' visible='true' version='2' changeset='61953996' lat='33.783257' lon='-84.3856674' />
+  <node id='5416485132' action='delete' timestamp='2018-02-16T13:05:35Z' uid='6058023' user='muziriana' visible='true' version='1' changeset='56413398' lat='33.783257' lon='-84.3857054' />
+  <node id='5416485161' action='delete' timestamp='2018-02-16T13:05:36Z' uid='6058023' user='muziriana' visible='true' version='1' changeset='56413398' lat='33.7830237' lon='-84.380526' />
+  <node id='5416485164' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7843165' lon='-84.3817482' />
+  <node id='5416485169' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7843157' lon='-84.3815641' />
+  <node id='5416485172' action='delete' timestamp='2018-02-16T13:05:36Z' uid='6058023' user='muziriana' visible='true' version='1' changeset='56413398' lat='33.7831962' lon='-84.3823335' />
+  <node id='5416485174' action='delete' timestamp='2018-02-16T13:05:36Z' uid='6058023' user='muziriana' visible='true' version='1' changeset='56413398' lat='33.7832571' lon='-84.3857396' />
+  <node id='5416547097' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7817825' lon='-84.3809309' />
+  <node id='5416547098' action='delete' timestamp='2018-02-16T13:48:22Z' uid='6058023' user='muziriana' visible='true' version='1' changeset='56414404' lat='33.7830276' lon='-84.3818336' />
+  <node id='5416547103' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7817684' lon='-84.3820296' />
+  <node id='5423994003' action='delete' timestamp='2018-02-20T07:02:30Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56511803' lat='33.7845724' lon='-84.387204' />
+  <node id='5424001601' action='delete' timestamp='2018-02-20T07:05:18Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56511858' lat='33.7845702' lon='-84.3869687' />
+  <node id='5424001613' action='delete' timestamp='2018-02-20T07:05:18Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56511858' lat='33.7850244' lon='-84.3862833' />
+  <node id='5424005429' action='delete' timestamp='2018-02-20T07:06:10Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56511877' lat='33.7857247' lon='-84.3873689' />
+  <node id='5424005436' action='delete' timestamp='2018-02-20T07:06:10Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56511877' lat='33.7845694' lon='-84.3868795' />
+  <node id='5424126685' action='delete' timestamp='2018-02-20T08:43:49Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56513783' lat='33.7856276' lon='-84.3848404' />
+  <node id='5424129341' action='delete' timestamp='2018-02-20T08:45:54Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56513835' lat='33.7856318' lon='-84.3851428' />
+  <node id='5424129342' action='delete' timestamp='2018-02-20T08:45:54Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56513835' lat='33.7856334' lon='-84.3852595' />
+  <node id='5424129347' action='delete' timestamp='2018-02-20T08:45:54Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56513835' lat='33.7856269' lon='-84.384786' />
+  <node id='5424129350' action='delete' timestamp='2018-02-20T08:46:22Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56513844' lat='33.7856374' lon='-84.3855444' />
+  <node id='5424132517' action='delete' timestamp='2018-02-20T08:54:07Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56514024' lat='33.7827554' lon='-84.3823825' />
+  <node id='5424133416' timestamp='2018-02-20T08:51:45Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56513970' lat='33.7842953' lon='-84.3828515' />
+  <node id='5424144260' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7817787' lon='-84.3811672' />
+  <node id='5424170716' action='delete' timestamp='2018-02-20T09:16:07Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56514555' lat='33.7793129' lon='-84.3842321' />
+  <node id='5424173557' action='delete' timestamp='2018-02-20T09:19:02Z' uid='6371645' user='Iqhra' visible='true' version='1' changeset='56514627' lat='33.7788659' lon='-84.3842743' />
+  <node id='5424197000' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102' lat='33.772933' lon='-84.3848438' />
+  <node id='5674179651' action='delete' timestamp='2018-06-08T05:53:43Z' uid='4647004' user='Bhojaraj' visible='true' version='1' changeset='59656020' lat='33.7864052' lon='-84.3821642' />
+  <node id='5674179652' timestamp='2018-06-08T05:53:43Z' uid='4647004' user='Bhojaraj' visible='true' version='1' changeset='59656020' lat='33.786504' lon='-84.3822701' />
+  <node id='5674179654' action='delete' timestamp='2018-06-08T05:53:43Z' uid='4647004' user='Bhojaraj' visible='true' version='1' changeset='59656020' lat='33.7864932' lon='-84.3818095' />
+  <node id='5674181090' action='delete' timestamp='2018-06-08T05:58:47Z' uid='4647004' user='Bhojaraj' visible='true' version='1' changeset='59656117' lat='33.7855088' lon='-84.3821732' />
+  <node id='5674181091' action='delete' timestamp='2018-06-08T05:58:47Z' uid='4647004' user='Bhojaraj' visible='true' version='1' changeset='59656117' lat='33.7854301' lon='-84.382089' />
+  <node id='5674181092' timestamp='2018-06-08T05:58:47Z' uid='4647004' user='Bhojaraj' visible='true' version='1' changeset='59656117' lat='33.7854348' lon='-84.3822815' />
+  <node id='5831060487' action='delete' timestamp='2018-08-14T02:36:05Z' uid='8240071' user='ravsjith' visible='true' version='1' changeset='61643341' lat='33.7772024' lon='-84.3844315' />
+  <node id='5831060489' action='delete' timestamp='2018-08-14T02:36:05Z' uid='8240071' user='ravsjith' visible='true' version='1' changeset='61643341' lat='33.7769502' lon='-84.3844555' />
+  <node id='5834678396' action='delete' timestamp='2018-08-15T16:14:05Z' uid='8241265' user='herbm123' visible='true' version='1' changeset='61690508' lat='33.7864804' lon='-84.3808239' />
+  <node id='5849239945' action='delete' timestamp='2018-08-22T14:41:26Z' uid='8683370' user='shushmit' visible='true' version='1' changeset='61891426' lat='33.7801316' lon='-84.38565' />
+  <node id='5849239947' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7842813' lon='-84.3792574' />
+  <node id='5853527355' action='delete' timestamp='2018-08-24T11:48:25Z' uid='8240071' user='ravsjith' visible='true' version='1' changeset='61953996' lat='33.7853746' lon='-84.3801161' />
+  <node id='5853527360' action='delete' timestamp='2020-03-07T03:40:15Z' uid='3009398' user='StackKorora' visible='true' version='2' changeset='81889001' lat='33.7832577' lon='-84.3860446' />
+  <node id='5853527364' action='delete' timestamp='2018-08-24T11:48:26Z' uid='8240071' user='ravsjith' visible='true' version='1' changeset='61953996' lat='33.7850905' lon='-84.3842522' />
+  <node id='5853527365' action='delete' timestamp='2018-08-24T11:48:26Z' uid='8240071' user='ravsjith' visible='true' version='1' changeset='61953996' lat='33.7864806' lon='-84.3803145' />
+  <node id='5996559579' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102' lat='33.7750999' lon='-84.3861067' />
+  <node id='5996566149' action='delete' timestamp='2021-10-02T22:00:25Z' uid='10019160' user='jScher' visible='true' version='4' changeset='112016477' lat='33.7845648' lon='-84.3863724'>
+    <tag k='crossing' v='marked' />
+    <tag k='crossing:island' v='no' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='5996566161' action='delete' timestamp='2021-10-02T22:00:19Z' uid='10019160' user='jScher' visible='true' version='4' changeset='112016477' lat='33.7845231' lon='-84.3862822'>
+    <tag k='crossing' v='marked' />
+    <tag k='crossing:island' v='no' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='5996566168' action='delete' timestamp='2018-10-18T21:17:09Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63660661' lat='33.7844898' lon='-84.3844406' />
+  <node id='5996566171' action='delete' timestamp='2018-10-18T21:17:09Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63660661' lat='33.7846025' lon='-84.384323' />
+  <node id='5996566175' timestamp='2018-10-18T21:17:09Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63660661' lat='33.784438' lon='-84.3842732' />
+  <node id='5996566177' action='delete' timestamp='2018-10-18T21:17:09Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63660661' lat='33.7843642' lon='-84.3843713' />
+  <node id='5996566184' timestamp='2018-10-18T21:17:09Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63660661' lat='33.7832551' lon='-84.3846839' />
+  <node id='5996566286' action='delete' timestamp='2019-01-28T00:32:24Z' uid='8622775' user='jpmor' visible='true' version='2' changeset='66690485' lat='33.7833417' lon='-84.3846261' />
+  <node id='5999071489' action='delete' timestamp='2018-10-19T21:20:09Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63691655' lat='33.7763022' lon='-84.3859851' />
+  <node id='5999071497' action='delete' timestamp='2018-10-19T21:20:09Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63691655' lat='33.7774042' lon='-84.3858759' />
+  <node id='5999074638' action='delete' timestamp='2018-10-19T21:23:26Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63691702' lat='33.7785711' lon='-84.3857648' />
+  <node id='5999074672' action='delete' timestamp='2018-10-19T21:23:26Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63691702' lat='33.7786824' lon='-84.3857546' />
+  <node id='6005931644' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.781796' lon='-84.3803653'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6005931662' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.781791' lon='-84.3805692'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6005931668' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7830218' lon='-84.3800042' />
+  <node id='6005931681' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7842795' lon='-84.37901'>
+    <tag k='crossing' v='traffic_signals' />
+    <tag k='highway' v='crossing' />
+  </node>
+  <node id='6005931751' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7865631' lon='-84.3843272' />
+  <node id='6005931761' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866553' lon='-84.3843984' />
+  <node id='6005931764' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866717' lon='-84.3842394' />
+  <node id='6005931765' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866249' lon='-84.3842426' />
+  <node id='6005931780' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7855761' lon='-84.3842181' />
+  <node id='6005931782' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7856199' lon='-84.38428' />
+  <node id='6308275046' action='delete' timestamp='2019-02-28T14:30:40Z' uid='9196089' user='hemasvn' visible='true' version='1' changeset='67653431' lat='33.7804909' lon='-84.3841205' />
+  <node id='6694597806' action='delete' timestamp='2019-08-08T11:14:13Z' uid='9196100' user='ntanniru' visible='true' version='1' changeset='73149414' lat='33.7807596' lon='-84.3865023' />
+  <node id='6694597821' action='delete' timestamp='2019-08-08T11:14:13Z' uid='9196100' user='ntanniru' visible='true' version='1' changeset='73149414' lat='33.7807613' lon='-84.3864427' />
+  <node id='6694729109' action='delete' timestamp='2019-08-08T12:16:47Z' uid='10145794' user='srmudava' visible='true' version='1' changeset='73152200' lat='33.7853923' lon='-84.3808634' />
+  <node id='6694851733' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7842997' lon='-84.3801645' />
+  <node id='6694851735' action='delete' timestamp='2019-08-08T13:15:18Z' uid='10159525' user='pbellamk' visible='true' version='1' changeset='73154998' lat='33.7857038' lon='-84.3864641' />
+  <node id='6702448132' action='delete' timestamp='2019-08-12T06:44:28Z' uid='10145800' user='accheela' visible='true' version='1' changeset='73256314' lat='33.7777015' lon='-84.3843843' />
+  <node id='6702906075' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7843083' lon='-84.3808154' />
+  <node id='6702906078' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='2' changeset='117886530' lat='33.7843077' lon='-84.3805239' />
+  <node id='6993966526' action='delete' timestamp='2021-10-02T22:00:29Z' uid='10019160' user='jScher' visible='true' version='3' changeset='112016477' lat='33.7846044' lon='-84.3862821'>
+    <tag k='crossing' v='marked' />
+    <tag k='crossing:island' v='no' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='no' />
+  </node>
+  <node id='7058941335' timestamp='2019-12-16T01:54:59Z' uid='10192114' user='dviraja' visible='true' version='1' changeset='78444029' lat='33.7871125' lon='-84.3833344' />
+  <node id='7151205661' action='delete' timestamp='2020-01-22T12:39:05Z' uid='10324067' user='adrianb_telenav' visible='true' version='1' changeset='79916623' lat='33.7823655' lon='-84.3824276' />
+  <node id='7223816728' timestamp='2020-02-19T02:23:31Z' uid='10457692' user='pravallg' visible='true' version='1' changeset='81195336' lat='33.7817329' lon='-84.3830291' />
+  <node id='7223816735' action='delete' timestamp='2020-02-19T02:23:31Z' uid='10457692' user='pravallg' visible='true' version='1' changeset='81195336' lat='33.7822138' lon='-84.3824451' />
+  <node id='7258187490' action='delete' timestamp='2020-03-02T15:24:53Z' uid='10324067' user='adrianb_telenav' visible='true' version='1' changeset='81687156' lat='33.7853836' lon='-84.3804953' />
+  <node id='7258187491' action='delete' timestamp='2020-03-02T15:24:53Z' uid='10324067' user='adrianb_telenav' visible='true' version='1' changeset='81687156' lat='33.7864805' lon='-84.3804985' />
+  <node id='7273504915' action='delete' timestamp='2020-03-07T03:40:15Z' uid='3009398' user='StackKorora' visible='true' version='1' changeset='81889001' lat='33.7832574' lon='-84.3861162' />
+  <node id='7415937421' timestamp='2020-04-17T22:30:04Z' uid='8143452' user='SeyfuLakew_lyft' visible='true' version='1' changeset='83727923' lat='33.7860504' lon='-84.3830649' />
+  <node id='7430645949' timestamp='2020-04-21T15:34:37Z' uid='10313603' user='rserezo_lyft' visible='true' version='1' changeset='83889674' lat='33.7852684' lon='-84.3830112' />
+  <node id='7430760719' action='delete' timestamp='2020-04-21T16:12:09Z' uid='10313603' user='rserezo_lyft' visible='true' version='1' changeset='83891193' lat='33.7863069' lon='-84.3842978' />
+  <node id='7430760724' action='delete' timestamp='2020-04-21T16:12:09Z' uid='10313603' user='rserezo_lyft' visible='true' version='1' changeset='83891193' lat='33.7866608' lon='-84.3860466' />
+  <node id='7430760732' action='delete' timestamp='2020-04-21T16:12:09Z' uid='10313603' user='rserezo_lyft' visible='true' version='1' changeset='83891193' lat='33.7866608' lon='-84.3857149' />
+  <node id='7430760747' action='delete' timestamp='2020-04-21T16:12:09Z' uid='10313603' user='rserezo_lyft' visible='true' version='1' changeset='83891193' lat='33.7866625' lon='-84.3862566' />
+  <node id='7430760763' action='delete' timestamp='2020-04-21T16:12:09Z' uid='10313603' user='rserezo_lyft' visible='true' version='1' changeset='83891193' lat='33.78666' lon='-84.3855107' />
+  <node id='7430760772' action='delete' timestamp='2020-04-21T16:12:09Z' uid='10313603' user='rserezo_lyft' visible='true' version='1' changeset='83891193' lat='33.7866587' lon='-84.385217' />
+  <node id='7440198542' action='delete' timestamp='2020-04-24T03:43:44Z' uid='10302077' user='pchopson' visible='true' version='1' changeset='84032102' lat='33.7832569' lon='-84.3856256' />
+  <node id='7440198544' action='delete' timestamp='2020-04-24T03:43:44Z' uid='10302077' user='pchopson' visible='true' version='1' changeset='84032102' lat='33.7832568' lon='-84.3855771' />
+  <node id='7468337327' action='delete' timestamp='2020-04-30T20:19:11Z' uid='9233525' user='pscrimshaw_lyft' visible='true' version='1' changeset='84437106' lat='33.7851835' lon='-84.3862838' />
+  <node id='7468337328' action='delete' timestamp='2020-04-30T20:19:11Z' uid='9233525' user='pscrimshaw_lyft' visible='true' version='1' changeset='84437106' lat='33.7849834' lon='-84.3862832' />
+  <node id='7477484616' timestamp='2020-05-04T02:24:29Z' uid='10208965' user='jacorohi' visible='true' version='1' changeset='84587836' lat='33.7851388' lon='-84.3830127' />
+  <node id='8082786909' action='delete' timestamp='2020-11-04T23:34:56Z' uid='7679992' user='kfremd' visible='true' version='1' changeset='93566521' lat='33.7747128' lon='-84.3861652' />
+  <node id='8169480880' action='delete' timestamp='2020-11-27T05:40:49Z' uid='10159525' user='pbellamk' visible='true' version='1' changeset='94872786' lat='33.7856397' lon='-84.3857138' />
+  <node id='8169480881' action='delete' timestamp='2020-11-27T05:40:49Z' uid='10159525' user='pbellamk' visible='true' version='1' changeset='94872786' lat='33.7856438' lon='-84.3860766' />
+  <node id='8296703969' timestamp='2021-01-06T13:14:28Z' uid='11335781' user='cpligovka_lyft' visible='true' version='1' changeset='97051612' lat='33.7842969' lon='-84.3824874' />
+  <node id='8323499758' action='delete' timestamp='2021-01-15T06:59:09Z' uid='11824233' user='kmarkish_lyft' visible='true' version='1' changeset='97536960' lat='33.785396' lon='-84.381018' />
+  <node id='8482370929' action='delete' timestamp='2021-03-03T10:01:40Z' uid='10297537' user='appank' visible='true' version='1' changeset='100339034' lat='33.7854135' lon='-84.3815493' />
+  <node id='8482370936' action='delete' timestamp='2021-03-03T10:01:40Z' uid='10297537' user='appank' visible='true' version='1' changeset='100339034' lat='33.7864852' lon='-84.3815467' />
+  <node id='8519882584' action='delete' timestamp='2021-03-15T07:19:40Z' uid='11558568' user='qkkmrg' visible='true' version='1' changeset='101028924' lat='33.7851115' lon='-84.3862836' />
+  <node id='8765611112' action='delete' timestamp='2021-09-06T04:33:32Z' uid='10019160' user='jScher' visible='true' version='3' changeset='110773153' lat='33.7857321' lon='-84.3876873'>
+    <tag k='crossing' v='marked' />
+    <tag k='crossing:island' v='no' />
+    <tag k='highway' v='crossing' />
+    <tag k='tactile_paving' v='yes' />
+  </node>
+  <node id='9515021659' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='1' changeset='117539410' lat='33.7807638' lon='-84.3856759' />
+  <node id='9515021663' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='1' changeset='117539410' lat='33.7807163' lon='-84.3856066' />
+  <node id='9515021671' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='1' changeset='117539410' lat='33.7807713' lon='-84.3852081' />
+  <node id='9515021672' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='1' changeset='117539410' lat='33.7807767' lon='-84.3849111' />
+  <node id='9537493832' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='1' changeset='117886530' lat='33.7842883' lon='-84.379603' />
+  <node id='9561221580' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='1' changeset='118212102' lat='33.774552' lon='-84.3846819' />
+  <node id='9561221585' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='1' changeset='118212102' lat='33.7743078' lon='-84.3847047' />
+  <node id='9561221586' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='1' changeset='118212102' lat='33.7743242' lon='-84.3847032' />
+  <node id='9561221607' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='1' changeset='118212102' lat='33.7749382' lon='-84.3861218' />
+  <node id='9564973115' action='delete' timestamp='2022-03-09T04:14:53Z' uid='11824233' user='kmarkish_lyft' visible='true' version='1' changeset='118260184' lat='33.7845134' lon='-84.3877232' />
+  <way id='9246225' action='modify' timestamp='2020-04-24T03:43:44Z' uid='10302077' user='pchopson' visible='true' version='13' changeset='84032102'>
+    <nd ref='-101987' />
+    <nd ref='5996566184' />
+    <nd ref='69227161' />
+    <nd ref='4165941961' />
+    <nd ref='69227164' />
+    <nd ref='69227168' />
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='11th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='11th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+  </way>
+  <way id='9247806' timestamp='2019-11-27T08:22:03Z' uid='10086293' user='ommundu' visible='true' version='12' changeset='77614511'>
+    <nd ref='69249210' />
+    <nd ref='3602660737' />
+    <nd ref='5674181092' />
+    <nd ref='69249214' />
+    <tag k='highway' v='residential' />
+    <tag k='name' v='13th Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='13th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+  </way>
+  <way id='9247807' action='delete' timestamp='2021-04-15T01:35:41Z' uid='10019160' user='jScher' visible='true' version='11' changeset='102957561'>
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='13th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='13th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+  </way>
+  <way id='9247809' action='delete' timestamp='2021-05-25T17:22:55Z' uid='10019160' user='jScher' visible='true' version='11' changeset='105307461'>
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='13th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='13th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+  </way>
+  <way id='9254743' action='delete' timestamp='2012-12-27T16:53:18Z' uid='451693' user='bot-mode' visible='true' version='2' changeset='14427819'>
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Dickson Place Northeast' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Dickson' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='Pl' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='9258925' timestamp='2021-04-15T16:25:48Z' uid='9051457' user='robotstefan' visible='true' version='16' changeset='103006892'>
+    <nd ref='69387063' />
+    <nd ref='5996566175' />
+    <nd ref='69387066' />
+    <nd ref='5410743448' />
+    <nd ref='5411630556' />
+    <nd ref='5410743449' />
+    <nd ref='69387069' />
+    <nd ref='69387071' />
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='12th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='12th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_left_1' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='9258926' action='delete' timestamp='2022-03-09T04:14:53Z' uid='11824233' user='kmarkish_lyft' visible='true' version='16' changeset='118260184'>
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='maxspeed:type' v='sign' />
+    <tag k='name' v='12th Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='12th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+  </way>
+  <way id='9269517' action='delete' timestamp='2018-09-30T19:39:00Z' uid='8107451' user='njtbusfan' visible='true' version='9' changeset='63073895'>
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='no' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Crescent Avenue Northeast' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Crescent' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='Ave' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='9272335' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='12' changeset='118212102'>
+    <tag k='highway' v='residential' />
+    <tag k='name' v='Cypress Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Cypress' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='9272944' action='delete' timestamp='2022-03-15T14:45:13Z' uid='11249764' user='akakhno_lyft' visible='true' version='25' changeset='118514648'>
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='30 mph' />
+    <tag k='name' v='Juniper Street Northeast' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Juniper' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='28039002' action='delete' timestamp='2021-04-15T03:01:51Z' uid='10019160' user='jScher' visible='true' version='13' changeset='102959017'>
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='maxspeed:type' v='sign' />
+    <tag k='name' v='Crescent Avenue Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Crescent' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='Ave' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='60832343' action='delete' timestamp='2018-09-25T19:42:07Z' uid='3009398' user='StackKorora' visible='true' version='6' changeset='62925587'>
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Place Northeast' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='75359069' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='8' changeset='117539410'>
+    <tag k='access' v='no' />
+    <tag k='highway' v='construction' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Place Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='Pl' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='198659569' action='modify' timestamp='2018-10-22T21:20:45Z' uid='3327134' user='afonit' visible='true' version='8' changeset='63773552'>
+    <nd ref='69227168' />
+    <nd ref='4165941968' />
+    <nd ref='2087657868' />
+    <nd ref='2087657867' />
+    <nd ref='2087657866' />
+    <nd ref='5416485123' />
+    <nd ref='-102004' />
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='11th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='11th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+  </way>
+  <way id='234013258' action='delete' timestamp='2022-02-17T21:43:27Z' uid='186210' user='demory' visible='true' version='7' changeset='117539410'>
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Place Northeast' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='Pl' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='234013266' timestamp='2018-10-07T19:44:16Z' uid='8107451' user='njtbusfan' visible='true' version='10' changeset='63288109'>
+    <nd ref='69515842' />
+    <nd ref='4165941970' />
+    <nd ref='69614548' />
+    <nd ref='69614545' />
+    <nd ref='69614542' />
+    <nd ref='69538856' />
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='30 mph' />
+    <tag k='name' v='10th Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='10th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='235008480' action='delete' timestamp='2021-05-06T13:58:11Z' uid='10019160' user='jScher' visible='true' version='10' changeset='104257564'>
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Walk Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='Walk' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='290405872' timestamp='2018-10-22T21:20:48Z' uid='3327134' user='afonit' visible='true' version='5' changeset='63773552'>
+    <nd ref='69421271' />
+    <nd ref='6005931765' />
+    <nd ref='2939367165' />
+    <nd ref='69421273' />
+    <nd ref='2939367164' />
+    <nd ref='3602660758' />
+    <nd ref='69421277' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='14th Street Northeast' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='14th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='yes' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+    <tag k='turn:lanes' v='left|none' />
+  </way>
+  <way id='290405873' timestamp='2018-10-22T21:20:48Z' uid='3327134' user='afonit' visible='true' version='5' changeset='63773552'>
+    <nd ref='69421277' />
+    <nd ref='3602660759' />
+    <nd ref='2939367166' />
+    <nd ref='2939367167' />
+    <nd ref='2939367168' />
+    <nd ref='6005931764' />
+    <nd ref='69421271' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='14th Street Northeast' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='14th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='yes' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='290405874' action='modify' timestamp='2018-09-30T19:41:35Z' uid='8107451' user='njtbusfan' visible='true' version='8' changeset='63073895'>
+    <nd ref='69421277' />
+    <nd ref='3602660757' />
+    <nd ref='69421281' />
+    <nd ref='1573471355' />
+    <nd ref='5674179652' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='5' />
+    <tag k='name' v='14th Street Northeast' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='14th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+    <tag k='turn:lanes:backward' v='through|through;right' />
+    <tag k='turn:lanes:forward' v='left|through|right' />
+  </way>
+  <way id='354587521' timestamp='2021-06-30T07:48:29Z' uid='11824233' user='kmarkish_lyft' visible='true' version='16' changeset='107190008'>
+    <nd ref='69515842' />
+    <nd ref='4165941976' />
+    <nd ref='4165941988' />
+    <nd ref='69488055' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='354587522' timestamp='2021-05-16T18:25:44Z' uid='10019160' user='jScher' visible='true' version='10' changeset='104780477'>
+    <nd ref='69421277' />
+    <nd ref='3602660753' />
+    <nd ref='7415937421' />
+    <nd ref='69515870' />
+    <nd ref='3602660743' />
+    <nd ref='69249210' />
+    <nd ref='3602660735' />
+    <nd ref='7430645949' />
+    <nd ref='7477484616' />
+    <nd ref='69515868' />
+    <nd ref='69515865' />
+    <nd ref='4165941938' />
+    <nd ref='69387071' />
+    <nd ref='4165941942' />
+    <nd ref='69515861' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='354587523' timestamp='2019-12-16T01:54:59Z' uid='10192114' user='dviraja' visible='true' version='3' changeset='78444029'>
+    <nd ref='2390850312' />
+    <nd ref='7058941335' />
+    <nd ref='2390850322' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='right' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='431441736' action='delete' timestamp='2021-03-03T10:01:40Z' uid='10297537' user='appank' visible='true' version='11' changeset='100339034'>
+    <tag k='cycleway:left' v='lane' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:backward' v='3' />
+    <tag k='lanes:forward' v='1' />
+    <tag k='name' v='14th Street Northeast' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='14th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+    <tag k='turn:lanes:backward' v='left|left|through' />
+  </way>
+  <way id='505912698' action='delete' timestamp='2018-10-22T21:20:43Z' uid='3327134' user='afonit' visible='true' version='5' changeset='63773552'>
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='30 mph' />
+    <tag k='name' v='10th Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='10th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='533146591' action='modify' timestamp='2018-10-07T19:44:56Z' uid='8107451' user='njtbusfan' visible='true' version='2' changeset='63288109'>
+    <nd ref='69538856' />
+    <nd ref='69614540' />
+    <nd ref='69614533' />
+    <nd ref='69614530' />
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='30 mph' />
+    <tag k='name' v='10th Street Northeast' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='10th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='533146592' action='delete' timestamp='2021-10-02T22:07:03Z' uid='10019160' user='jScher' visible='true' version='4' changeset='112016575'>
+    <tag k='cycleway:right' v='shared_lane' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='2' />
+    <tag k='name' v='10th Street Northeast' />
+    <tag k='oneway' v='yes' />
+    <tag k='surface' v='asphalt' />
+  </way>
+  <way id='586592806' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='9' changeset='117886530'>
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='no' />
+    <tag k='name' v='12th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='12th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_left_1' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='611582484' action='delete' timestamp='2021-05-06T13:50:36Z' uid='10019160' user='jScher' visible='true' version='8' changeset='104257564'>
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='12th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='12th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+  </way>
+  <way id='611582485' action='modify' timestamp='2021-04-24T07:02:58Z' uid='9051457' user='robotstefan' visible='true' version='4' changeset='103519408'>
+    <nd ref='69387071' />
+    <nd ref='4165941940' />
+    <nd ref='69387077' />
+    <nd ref='5424133416' />
+    <nd ref='8296703969' />
+    <nd ref='4165941945' />
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='residential' />
+    <tag k='lit' v='yes' />
+    <tag k='name' v='12th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='12th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_left_1' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='619421349' action='delete' timestamp='2020-04-21T16:12:09Z' uid='10313603' user='rserezo_lyft' visible='true' version='4' changeset='83891193'>
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='name' v='14th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='14th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='629238145' action='delete' timestamp='2021-04-15T16:25:48Z' uid='9051457' user='robotstefan' visible='true' version='2' changeset='103006892'>
+    <tag k='cycleway:right' v='shared_lane' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='30 mph' />
+    <tag k='name' v='10th Street Northeast' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='10th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='629238146' action='delete' timestamp='2021-10-02T22:12:51Z' uid='10019160' user='jScher' visible='true' version='3' changeset='112016575'>
+    <tag k='highway' v='residential' />
+    <tag k='lanes' v='2' />
+    <tag k='lit' v='yes' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Place Northeast' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='Pl' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='629278174' timestamp='2018-09-30T19:38:26Z' uid='8107451' user='njtbusfan' visible='true' version='1' changeset='63073895'>
+    <nd ref='2390850322' />
+    <nd ref='3602660762' />
+    <nd ref='69421277' />
+    <tag k='highway' v='secondary' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='631653294' timestamp='2021-05-16T18:27:53Z' uid='10019160' user='jScher' visible='true' version='2' changeset='104780477'>
+    <nd ref='69227168' />
+    <nd ref='69515852' />
+    <nd ref='4165941966' />
+    <nd ref='69515849' />
+    <nd ref='69515728' />
+    <nd ref='4165941972' />
+    <nd ref='69515842' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='631653295' timestamp='2020-02-19T02:23:31Z' uid='10457692' user='pravallg' visible='true' version='2' changeset='81195336'>
+    <nd ref='4165941984' />
+    <nd ref='7223816728' />
+    <nd ref='5407255378' />
+    <nd ref='4165941974' />
+    <nd ref='69515842' />
+    <tag k='cycleway' v='shared_lane' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='30 mph' />
+    <tag k='name' v='10th Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='10th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='750019483' action='delete' timestamp='2021-04-07T08:41:12Z' uid='10904111' user='technician_lyft' visible='true' version='5' changeset='102463432'>
+    <tag k='highway' v='residential' />
+    <tag k='name' v='13th Street Northeast' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='13th' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+  </way>
+  <way id='750019484' action='delete' timestamp='2022-02-09T09:27:49Z' uid='11249764' user='akakhno_lyft' visible='true' version='5' changeset='117192956'>
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='3' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Juniper Street Northeast' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Juniper' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+  </way>
+  <way id='943600887' timestamp='2021-05-16T18:26:06Z' uid='10019160' user='jScher' visible='true' version='2' changeset='104780477'>
+    <nd ref='69515861' />
+    <nd ref='69515858' />
+    <nd ref='69515856' />
+    <nd ref='69515855' />
+    <nd ref='4165941963' />
+    <nd ref='69227168' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='959690884' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='2' changeset='118212102'>
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='oneway' v='no' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='1029549928' action='delete' timestamp='2022-02-09T09:27:49Z' uid='11249764' user='akakhno_lyft' visible='true' version='1' changeset='117192956'>
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Juniper Street Northeast' />
+    <tag k='oneway' v='yes' />
+    <tag k='source:maxspeed' v='sign' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Juniper' />
+    <tag k='tiger:name_direction_suffix' v='NE' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:zip_left' v='30309' />
+    <tag k='tiger:zip_right' v='30309' />
+    <tag k='turn:lanes' v='left|none|none|none' />
+  </way>
+</osm>
