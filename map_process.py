@@ -8,7 +8,8 @@ network = mtlmap.build_network_from_xml(region_name='peachtree',
                                         mode=mtlmap.MapMode.ACCURATE)
 
 # adding arterial
-arterial_info_dict = {"S": ['2390850312', '69488055'], "N": ['69488055', '2390850312']}
+arterial_info_dict = {"S": ['2390850312', '69488055'],
+                      "N": ['69488055', '2390850312']}
 mtlmap.Arterial(network, 'peachtree',
                 input_dict=arterial_info_dict, putin_network=True,
                 ref_node='69421277')

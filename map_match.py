@@ -5,7 +5,7 @@ import mtldp.mtlmap as mtlmap
 from ngsim_adapter import NgsimTrajectoryAdapter
 
 
-file_location = 'C:/Data/Peachtree-Street-Atlanta-GA/NGSIM_Peachtree_Vehicle_Trajectories.csv'
+file_location = 'D:/Data/Peachtree-Street-Atlanta-GA/NGSIM_Peachtree_Vehicle_Trajectories.csv'
 fmm_module = mtltrajs.FmmModule('output/map_files',
                                 'output/map_files/shp')
 
