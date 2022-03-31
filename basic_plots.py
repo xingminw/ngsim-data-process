@@ -18,7 +18,7 @@ corridor = mtlmap.Arterial(network, 'peachtree',
                            input_dict=arterial_info_dict, putin_network=True,
                            ref_node='69421277')
 
-points_df = pd.read_csv('output/trajs_files/results.csv')
+points_df = pd.read_csv('peachtree/matched_trajs.csv')
 points_table = mtltrajs.OverallPoints()
 points_table.load_data(points_df)
 trajs_dict = points_table.get_trajs_dict(groupby='traj_id',
