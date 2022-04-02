@@ -15,7 +15,9 @@
   <node id='69227157' action='delete' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783258' lon='-84.38622' />
   <node id='69227161' timestamp='2009-10-06T13:14:12Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.783255' lon='-84.384652' />
   <node id='69227164' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783243' lon='-84.383946' />
-  <node id='69227168' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7832146' lon='-84.3838461' />
+  <node id='69227168' action='modify' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7832146' lon='-84.3838461'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
   <node id='69227178' action='delete' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783028' lon='-84.382351' />
   <node id='69227179' action='delete' timestamp='2009-12-12T03:44:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.783027' lon='-84.380946' />
   <node id='69227188' action='delete' timestamp='2022-02-26T17:24:50Z' uid='186210' user='demory' visible='true' version='4' changeset='117886530' lat='33.783016' lon='-84.3798918' />
@@ -23,7 +25,9 @@
     <tag k='highway' v='traffic_signals' />
     <tag k='traffic_signals' v='signal' />
   </node>
-  <node id='69249210' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7854538' lon='-84.3830127' />
+  <node id='69249210' action='modify' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7854538' lon='-84.3830127'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
   <node id='69249214' timestamp='2009-11-03T03:06:37Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3021897' lat='33.785432' lon='-84.382174' />
   <node id='69249218' action='delete' timestamp='2009-12-12T03:47:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.78542' lon='-84.381642' />
   <node id='69249224' action='delete' timestamp='2009-12-12T03:47:06Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353549' lat='33.785406' lon='-84.381443' />
@@ -51,7 +55,9 @@
   <node id='69387063' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='5' changeset='56333482' lat='33.7844634' lon='-84.3843478' />
   <node id='69387066' timestamp='2018-02-13T20:18:08Z' uid='3272286' user='manings' visible='true' version='5' changeset='56333482' lat='33.7844182' lon='-84.3842152' />
   <node id='69387069' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7843553' lon='-84.3831975' />
-  <node id='69387071' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7843311' lon='-84.3830841' />
+  <node id='69387071' action='modify' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.7843311' lon='-84.3830841'>
+    <tag k='highway' v='traffic_signals' />
+  </node>
   <node id='69387077' timestamp='2015-06-18T13:13:57Z' uid='94578' user='andygol' visible='true' version='3' changeset='32050788' lat='33.784295' lon='-84.3829151' />
   <node id='69387078' action='delete' timestamp='2011-03-04T14:37:41Z' uid='28852' user='Mark Gray' visible='true' version='3' changeset='7454884' lat='33.784298' lon='-84.38224'>
     <tag k='highway' v='traffic_signals' />
@@ -62,7 +68,7 @@
   </node>
   <node id='69387088' action='delete' timestamp='2009-12-12T03:55:24Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.784563' lon='-84.38617' />
   <node id='69421268' action='delete' timestamp='2009-10-06T13:28:45Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='2760040' lat='33.786663' lon='-84.386219' />
-  <node id='69421271' timestamp='2009-12-12T04:01:18Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.786655' lon='-84.384328' />
+  <node id='69421271' action='delete' timestamp='2009-12-12T04:01:18Z' uid='147510' user='woodpeck_fixbot' visible='true' version='2' changeset='3353591' lat='33.786655' lon='-84.384328' />
   <node id='69421273' timestamp='2014-06-29T17:44:54Z' uid='1946151' user='Jack the Ripper' visible='true' version='4' changeset='23276069' lat='33.7865608' lon='-84.3834845' />
   <node id='69421277' timestamp='2014-06-29T17:44:54Z' uid='1946151' user='Jack the Ripper' visible='true' version='5' changeset='23276069' lat='33.7865802' lon='-84.3831523'>
     <tag k='highway' v='traffic_signals' />
@@ -346,8 +352,8 @@
   </node>
   <node id='6005931751' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7865631' lon='-84.3843272' />
   <node id='6005931761' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866553' lon='-84.3843984' />
-  <node id='6005931764' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866717' lon='-84.3842394' />
-  <node id='6005931765' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866249' lon='-84.3842426' />
+  <node id='6005931764' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866717' lon='-84.3842394' />
+  <node id='6005931765' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7866249' lon='-84.3842426' />
   <node id='6005931780' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7855761' lon='-84.3842181' />
   <node id='6005931782' action='delete' timestamp='2018-10-22T21:20:36Z' uid='3327134' user='afonit' visible='true' version='1' changeset='63773552' lat='33.7856199' lon='-84.38428' />
   <node id='6308275046' action='delete' timestamp='2019-02-28T14:30:40Z' uid='9196089' user='hemasvn' visible='true' version='1' changeset='67653431' lat='33.7804909' lon='-84.3841205' />
@@ -409,6 +415,27 @@
   <node id='9561221586' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='1' changeset='118212102' lat='33.7743242' lon='-84.3847032' />
   <node id='9561221607' action='delete' timestamp='2022-03-07T20:42:06Z' uid='186210' user='demory' visible='true' version='1' changeset='118212102' lat='33.7749382' lon='-84.3861218' />
   <node id='9564973115' action='delete' timestamp='2022-03-09T04:14:53Z' uid='11824233' user='kmarkish_lyft' visible='true' version='1' changeset='118260184' lat='33.7845134' lon='-84.3877232' />
+  <way id='-101789' action='modify' visible='true'>
+    <nd ref='69421277' />
+    <nd ref='3602660753' />
+    <nd ref='7415937421' />
+    <nd ref='69515870' />
+    <nd ref='3602660743' />
+    <nd ref='69249210' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
   <way id='9246225' action='modify' timestamp='2020-04-24T03:43:44Z' uid='10302077' user='pchopson' visible='true' version='13' changeset='84032102'>
     <nd ref='-101987' />
     <nd ref='5996566184' />
@@ -683,9 +710,7 @@
     <tag k='tiger:zip_left' v='30309' />
     <tag k='tiger:zip_right' v='30309' />
   </way>
-  <way id='290405872' timestamp='2018-10-22T21:20:48Z' uid='3327134' user='afonit' visible='true' version='5' changeset='63773552'>
-    <nd ref='69421271' />
-    <nd ref='6005931765' />
+  <way id='290405872' action='modify' timestamp='2018-10-22T21:20:48Z' uid='3327134' user='afonit' visible='true' version='5' changeset='63773552'>
     <nd ref='2939367165' />
     <nd ref='69421273' />
     <nd ref='2939367164' />
@@ -706,14 +731,12 @@
     <tag k='tiger:zip_right' v='30309' />
     <tag k='turn:lanes' v='left|none' />
   </way>
-  <way id='290405873' timestamp='2018-10-22T21:20:48Z' uid='3327134' user='afonit' visible='true' version='5' changeset='63773552'>
+  <way id='290405873' action='modify' timestamp='2018-10-22T21:20:48Z' uid='3327134' user='afonit' visible='true' version='5' changeset='63773552'>
     <nd ref='69421277' />
     <nd ref='3602660759' />
     <nd ref='2939367166' />
     <nd ref='2939367167' />
     <nd ref='2939367168' />
-    <nd ref='6005931764' />
-    <nd ref='69421271' />
     <tag k='highway' v='secondary' />
     <tag k='lanes' v='2' />
     <tag k='name' v='14th Street Northeast' />
@@ -769,12 +792,7 @@
     <tag k='tiger:reviewed' v='no' />
     <tag k='tiger:zip_left' v='30308' />
   </way>
-  <way id='354587522' timestamp='2021-05-16T18:25:44Z' uid='10019160' user='jScher' visible='true' version='10' changeset='104780477'>
-    <nd ref='69421277' />
-    <nd ref='3602660753' />
-    <nd ref='7415937421' />
-    <nd ref='69515870' />
-    <nd ref='3602660743' />
+  <way id='354587522' action='modify' timestamp='2021-05-16T18:25:44Z' uid='10019160' user='jScher' visible='true' version='10' changeset='104780477'>
     <nd ref='69249210' />
     <nd ref='3602660735' />
     <nd ref='7430645949' />

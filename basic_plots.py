@@ -1,5 +1,3 @@
-import os
-import json
 import pandas as pd
 import matplotlib.pyplot as plt
 import mtldp.mtlmap as mtlmap
@@ -20,6 +18,7 @@ corridor = mtlmap.Arterial(network, 'peachtree',
 
 points_df = pd.read_csv('peachtree/matched_trajs.csv')
 points_table = mtltrajs.OverallPoints()
+
 points_table.load_data(points_df)
 trajs_dict = points_table.get_trajs_dict(groupby='traj_id',
                                          traj_attributes=['link_id', 'movement_id', 'junction_id'])
