@@ -1,6 +1,7 @@
 import pandas as pd
 import mtldp.mtltrajs as mtltrajs
 import mtldp.mtlmap as mtlmap
+from tqdm import tqdm
 
 network = mtlmap.build_network_from_xml(region_name='peachtree',
                                         file_name='peachtree/peachtree_filtered.osm',
@@ -22,12 +23,19 @@ trajs_dict = points_table.get_trajs_dict(groupby='traj_id',
 # todo: call function get the traffic matrices, in application
 # todo: interpolation: for every 1 second (only keep new points)
 numeric_column = ["distance", "speed", "longitude", "latitude"]
-for trip_id, traj in trajs_dict.dict.items():
+for trip_id, traj in tqdm(trajs_dict.dict.items()):
+    # if traj.traj_id == "1000-1163668":
+    #     a = points_table.df.loc[points_table.df["traj_id"] == "1000-1163668"]
+    #     print()
     new_traj = mtltrajs.interpolation(traj, numeric_column, resolution=1, degree=1)
     new_traj.df = new_traj.df.loc[new_traj.df["inserted"] == 1]
     new_traj.df = new_traj.df.drop(columns="inserted")
     trajs_dict.dict[trip_id] = new_traj
 
-print()
+interpolated_points_df = trajs_dict.get_points_df(attributes="all")
+
+interpolated_points_df.to_csv("peachtree/interpolated_trajs.csv", index=False)
+
+# print()
 
 # points_df = trajs_dict.get_points_df(attributes='all')
