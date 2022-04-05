@@ -51,15 +51,20 @@ def aggregate_road_image_dicts(road_dict_list):
     return aggregated_road_image_dict
 
 
-
+def _get_time_columns(start_tod, end_tod, interval):
+    start_date_time = mtlutils.tod_to_date_time(start_tod)
+    end_date_time = mtlutils.tod_to_date_time(end_tod)
+    time_columns = mtlutils.get_date_time_range(start_date_time, end_date_time,
+                                                minute_interval=interval / 60, date_time_format="%H:%M:%S")
+    return time_columns
 
 
 if __name__ == "__main__":
     import pandas as pd
     import mtldp.mtlmap as mtlmap
 
-    start_tod = 6
-    end_tod = 22
+    img_start_tod = 6
+    img_end_tod = 22
     time_interval = 60
     distance_interval = 20
     layer = "links"
@@ -73,7 +78,7 @@ if __name__ == "__main__":
     points_table.load_data(points)
     trajs_dict = points_table.get_trajs_dict(groupby='traj_id',
                                              traj_attributes=['link_id', 'movement_id', 'junction_id'])
-    # generate_road_img_dict(network, trajs_dict, start_tod, end_tod,
+    # generate_road_img_dict(network, trajs_dict, img_start_tod, img_end_tod,
     #                        time_interval, distance_interval, map_layer=layer)
     # exit()
 
@@ -99,9 +104,16 @@ if __name__ == "__main__":
     flow_matrix = rdimg_dict.get_path_flow(road_id_list, remove_incomplete_cell=True)
 
     # todo: start tod, end tod, interval, get time columns
-    for time_point in ['06:10', '06:11']:
+
+    app_start_tod = 7.0
+    app_end_tod = 8.0
+    app_interval = 20
+
+    app_time_columns = _get_time_columns(app_start_tod, app_end_tod, app_interval)
+
+    for time_point in app_time_columns:
         for road_id in road_id_list:
             density_vector = rdimg_dict.get_density_vector(road_id, time_point, remove_incomplete_cell=True)
             speed_vector = rdimg_dict.get_speed_vector(road_id, time_point, remove_incomplete_cell=True)
             flow_vector = rdimg_dict.get_flow_vector(road_id, time_point, remove_incomplete_cell=True)
-            print()
+            # print()
