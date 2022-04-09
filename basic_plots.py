@@ -24,8 +24,17 @@ trajs_dict = points_table.get_trajs_dict(groupby='traj_id',
                                          traj_attributes=['link_id', 'movement_id', 'junction_id'])
 movement_trajs_dict = trajs_dict.groupby('movement_id')
 
+# todo: load spat data
+
 for oneway in corridor.oneways.values():
     fig, ax = plt.subplots()
-    fig.tight_layout()
-    mtlmobility.plot_path_ts(ax, oneway, movement_trajs_dict)
+    flip_figure = False
+    if oneway.direction in ['S', 's', 'W', 'w']:
+        flip_figure = True
+    print(oneway.direction)
+    # todo: add plots here
+    # ax.plot(x_list, y_list, color='g')
+    mtlmobility.plot_path_ts(ax, oneway, movement_trajs_dict, flip=flip_figure)
+    distance_dict = oneway.distance_by_node
+    print(distance_dict)
     plt.show()
