@@ -27,14 +27,14 @@ for trip_id, traj in tqdm(trajs_dict.dict.items()):
     # if traj.traj_id == "1000-1163668":
     #     a = points_table.df.loc[points_table.df["traj_id"] == "1000-1163668"]
     #     print()
-    new_traj = mtltrajs.interpolation(traj, numeric_column, resolution=1, degree=1)
+    new_traj = mtltrajs.interpolation(traj, numeric_column, resolution=0.2, degree=1)
     new_traj.df = new_traj.df.loc[new_traj.df["inserted"] == 1]
     new_traj.df = new_traj.df.drop(columns="inserted")
     trajs_dict.dict[trip_id] = new_traj
 
-interpolated_points_df = trajs_dict.get_points_df(attributes="all")
-
-interpolated_points_df.to_csv("peachtree/interpolated_trajs.csv", index=False)
+# interpolated_points_df = trajs_dict.get_points_df(attributes="all")
+#
+# interpolated_points_df.to_csv("peachtree/interpolated_trajs.csv", index=False)
 
 # print()
 

@@ -23,7 +23,7 @@ def generate_road_img_dict(network, overall_trajs_dict, start_tod, end_tod,
     :return:
     """
     groupby_kwd = "link_id" if map_layer == "links" else "movement_id"
-    points_df = overall_trajs_dict.get_points_df(attributes="all")
+    points_df = overall_trajs_dict.get_points_df()
     points_df = mtlutils.df_add_date_time_and_tod(points_df, attr="timestamp", timezone_name=timezone)
     date_trajs_df = dict(tuple(points_df.groupby(["date"])))
     for date, daily_trajs_df in tqdm(date_trajs_df.items()):
@@ -78,42 +78,42 @@ if __name__ == "__main__":
     points_table.load_data(points)
     trajs_dict = points_table.get_trajs_dict(groupby='traj_id',
                                              traj_attributes=['link_id', 'movement_id', 'junction_id'])
-    # generate_road_img_dict(network, trajs_dict, img_start_tod, img_end_tod,
-    #                        time_interval, distance_interval, map_layer=layer)
+    generate_road_img_dict(network, trajs_dict, img_start_tod, img_end_tod,
+                           time_interval, distance_interval, map_layer=layer)
     # exit()
 
-    rdimg_dict = img.read_road_image_dict_from_json(os.path.join(output_folder, "1970-01-14_traffic_image.json"))
-
-    arterial_info_dict = {"S": ['2390850312', '69488055'],
-                          "N": ['69488055', '2390850312']}
-    corridor = mtlmap.Arterial(network, 'peachtree',
-                               input_dict=arterial_info_dict, putin_network=True,
-                               ref_node='69421277')
-    date_time_list = ["06:10", "06:20"]
-
-    road_id_list = []
-    for oneway in corridor.oneways.values():
-        if layer == "links":
-            road_id_list = [str(link) for link in oneway.link_list]
-        else:
-            road_id_list = [str(movement) for movement in oneway.movement_list]
-        break
-
-    density_matrix = rdimg_dict.get_path_density(road_id_list, remove_incomplete_cell=True)
-    speed_matrix = rdimg_dict.get_path_speed(road_id_list, remove_incomplete_cell=True)
-    flow_matrix = rdimg_dict.get_path_flow(road_id_list, remove_incomplete_cell=True)
-
-    # todo: start tod, end tod, interval, get time columns
-
-    app_start_tod = 7.0
-    app_end_tod = 8.0
-    app_interval = 20
-
-    app_time_columns = _get_time_columns(app_start_tod, app_end_tod, app_interval)
-
-    for time_point in app_time_columns:
-        for road_id in road_id_list:
-            density_vector = rdimg_dict.get_density_vector(road_id, time_point, remove_incomplete_cell=True)
-            speed_vector = rdimg_dict.get_speed_vector(road_id, time_point, remove_incomplete_cell=True)
-            flow_vector = rdimg_dict.get_flow_vector(road_id, time_point, remove_incomplete_cell=True)
-            # print()
+    # rdimg_dict = img.read_road_image_dict_from_json(os.path.join(output_folder, "1970-01-14_traffic_image.json"))
+    #
+    # arterial_info_dict = {"S": ['2390850312', '69488055'],
+    #                       "N": ['69488055', '2390850312']}
+    # corridor = mtlmap.Arterial(network, 'peachtree',
+    #                            input_dict=arterial_info_dict, putin_network=True,
+    #                            ref_node='69421277')
+    # date_time_list = ["06:10", "06:20"]
+    #
+    # road_id_list = []
+    # for oneway in corridor.oneways.values():
+    #     if layer == "links":
+    #         road_id_list = [str(link) for link in oneway.link_list]
+    #     else:
+    #         road_id_list = [str(movement) for movement in oneway.movement_list]
+    #     break
+    #
+    # density_matrix = rdimg_dict.get_path_density(road_id_list, remove_incomplete_cell=True)
+    # speed_matrix = rdimg_dict.get_path_speed(road_id_list, remove_incomplete_cell=True)
+    # flow_matrix = rdimg_dict.get_path_flow(road_id_list, remove_incomplete_cell=True)
+    #
+    # # todo: start tod, end tod, interval, get time columns
+    #
+    # app_start_tod = 7.0
+    # app_end_tod = 8.0
+    # app_interval = 20
+    #
+    # app_time_columns = _get_time_columns(app_start_tod, app_end_tod, app_interval)
+    #
+    # for time_point in app_time_columns:
+    #     for road_id in road_id_list:
+    #         density_vector = rdimg_dict.get_density_vector(road_id, time_point, remove_incomplete_cell=True)
+    #         speed_vector = rdimg_dict.get_speed_vector(road_id, time_point, remove_incomplete_cell=True)
+    #         flow_vector = rdimg_dict.get_flow_vector(road_id, time_point, remove_incomplete_cell=True)
+    #         # print()
