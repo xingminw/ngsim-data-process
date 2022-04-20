@@ -1,0 +1,17 @@
+{
+  "region_id": "peachtree",
+  "region_name": "peachtree",
+  "city_id": "Atlanta",
+  "map_folder": "peachtree",
+  "osm_file": "peachtree_filtered.osm",
+  "output_folder": "output",
+  "timezone": "America/Detroit",
+  "arterial": [
+    {
+      "arterial_id": "Peachtree Street",
+      "details": {"S": ["2390850312", "69488055"],
+                  "N": ["69488055", "2390850312"]},
+      "ref_node": "1355687208"
+    }
+  ]
+}
