@@ -9,7 +9,8 @@ file_location = 'E:/Data/Peachtree-Street-Atlanta-GA/NGSIM_Peachtree_Vehicle_Tra
 config_region = Region('peachtree/configuration.json')
 
 # step 1: build the region network
-network = build_region_network(config_region, save_to_local=False)
+network = build_region_network(config_region, save_to_local=True)
+exit()
 
 # step 2: read the raw data
 points_df = NgsimTrajectoryAdapter().load([file_location])[::10]
