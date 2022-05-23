@@ -2,6 +2,9 @@
 <osm version='0.6' generator='JOSM'>
   <node id='-101987' action='modify' visible='true' lat='33.78325598096' lon='-84.38514676614' />
   <node id='-102004' action='modify' visible='true' lat='33.78302766094' lon='-84.38285625428' />
+  <node id='-105103' action='modify' visible='true' lat='33.78637521724' lon='-84.38311851679'>
+    <tag k='stopline:backward' v='True' />
+  </node>
   <node id='69200112' action='delete' timestamp='2017-10-17T11:51:29Z' uid='3272286' user='manings' visible='true' version='5' changeset='53009262' lat='33.7814408' lon='-84.3863849' />
   <node id='69200114' action='delete' timestamp='2013-08-25T15:15:51Z' uid='127401' user='Ryan Lash' visible='true' version='3' changeset='17500867' lat='33.7821105' lon='-84.3863404'>
     <tag k='barrier' v='block' />
@@ -418,12 +421,88 @@
   <way id='-101789' action='modify' visible='true'>
     <nd ref='69421277' />
     <nd ref='3602660753' />
+    <nd ref='-105103' />
     <nd ref='7415937421' />
+    <nd ref='69515870' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:backward' v='3' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+    <tag k='turn:lanes:backward' v='left||' />
+  </way>
+  <way id='-101793' action='modify' visible='true'>
     <nd ref='69515870' />
     <nd ref='3602660743' />
     <nd ref='69249210' />
     <tag k='highway' v='secondary' />
     <tag k='lanes' v='4' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='-101836' action='modify' visible='true'>
+    <nd ref='69249210' />
+    <nd ref='3602660735' />
+    <nd ref='7430645949' />
+    <nd ref='7477484616' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:backward' v='3' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='-101881' action='modify' visible='true'>
+    <nd ref='7477484616' />
+    <nd ref='69515868' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='5' />
+    <tag k='lanes:backward' v='3' />
+    <tag k='maxspeed' v='25 mph' />
+    <tag k='name' v='Peachtree Street Northeast' />
+    <tag k='short_name' v='Peachtree Street' />
+    <tag k='sidewalk' v='both' />
+    <tag k='surface' v='asphalt' />
+    <tag k='tiger:cfcc' v='A41' />
+    <tag k='tiger:county' v='Fulton, GA' />
+    <tag k='tiger:name_base' v='Peachtree' />
+    <tag k='tiger:name_type' v='St' />
+    <tag k='tiger:reviewed' v='no' />
+    <tag k='tiger:zip_left' v='30308' />
+  </way>
+  <way id='-101885' action='modify' visible='true'>
+    <nd ref='69387071' />
+    <nd ref='4165941942' />
+    <nd ref='69515861' />
+    <tag k='highway' v='secondary' />
+    <tag k='lanes' v='4' />
+    <tag k='lanes:backward' v='2' />
     <tag k='maxspeed' v='25 mph' />
     <tag k='name' v='Peachtree Street Northeast' />
     <tag k='short_name' v='Peachtree Street' />
@@ -793,18 +872,13 @@
     <tag k='tiger:zip_left' v='30308' />
   </way>
   <way id='354587522' action='modify' timestamp='2021-05-16T18:25:44Z' uid='10019160' user='jScher' visible='true' version='10' changeset='104780477'>
-    <nd ref='69249210' />
-    <nd ref='3602660735' />
-    <nd ref='7430645949' />
-    <nd ref='7477484616' />
     <nd ref='69515868' />
     <nd ref='69515865' />
     <nd ref='4165941938' />
     <nd ref='69387071' />
-    <nd ref='4165941942' />
-    <nd ref='69515861' />
     <tag k='highway' v='secondary' />
     <tag k='lanes' v='4' />
+    <tag k='lanes:backward' v='2' />
     <tag k='maxspeed' v='25 mph' />
     <tag k='name' v='Peachtree Street Northeast' />
     <tag k='short_name' v='Peachtree Street' />

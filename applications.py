@@ -10,9 +10,10 @@ output_folder = "peachtree"
 
 # load data from either traffic matrices or trajectory points
 def generate_road_img_dict(network, overall_trajs_dict, start_tod, end_tod,
-                           temporal_interval, distance_interval, map_layer="links"):
+                           temporal_interval, distance_interval, map_layer="links", output_file=None):
     """
 
+    :param output_file:
     :param network:
     :param overall_trajs_dict:
     :param start_tod:
@@ -20,25 +21,39 @@ def generate_road_img_dict(network, overall_trajs_dict, start_tod, end_tod,
     :param temporal_interval:
     :param distance_interval:
     :param map_layer:
-    :return:
+    :return: {date: RoadImageDict}
     """
+    output_dict = {}
     groupby_kwd = "link_id" if map_layer == "links" else "movement_id"
     points_df = overall_trajs_dict.get_points_df()
     points_df = mtlutils.df_add_date_time_and_tod(points_df, attr="timestamp", timezone_name=timezone)
     date_trajs_df = dict(tuple(points_df.groupby(["date"])))
-    for date, daily_trajs_df in tqdm(date_trajs_df.items()):
+    for date, daily_trajs_df in date_trajs_df.items():
         print(f"Processing {date}...")
         overall_points = mtltrajs.OverallPoints()
         overall_points.load_data(daily_trajs_df)
         road_trajs_dict = overall_points.get_trajs_dict(groupby='traj_id',
                                                         traj_attributes=['link_id', 'movement_id'])
         road_trajs_dict = road_trajs_dict.groupby(groupby_kwd)
-        daily_road_img_dict = img.RoadImageDict(start_tod, end_tod, [date], temporal_interval, distance_interval,
-                                                map_layer, timezone_name=timezone, city_id="peachtree")
-        daily_road_img_dict.init_from_trajs_dict(road_trajs_dict, network)
-        if not os.path.exists(output_folder):
-            os.mkdir(output_folder)
-        daily_road_img_dict.to_json(os.path.join(output_folder, f"{date}_traffic_image.json"))
+        daily_overall_img_dict = None
+        for road_id, road_trajs_dict in tqdm(road_trajs_dict.items()):
+            road_segment = network.__dict__[map_layer][road_id]
+            daily_road_img_dict = img.RoadImageDict(start_tod, end_tod, [date], temporal_interval, distance_interval,
+                                                    map_layer, timezone_name=timezone)
+            daily_road_img_dict.init_from_trajs_dict(road_trajs_dict, road_segment)
+            if daily_overall_img_dict is None:
+                daily_overall_img_dict = daily_road_img_dict
+            else:
+                daily_overall_img_dict.extend(daily_road_img_dict, update_speed=False)
+        daily_overall_img_dict.update_speed()
+        if output_file is None:
+            output_dict[date] = daily_overall_img_dict
+        else:
+            if not os.path.exists(output_folder):
+                os.mkdir(output_folder)
+            daily_overall_img_dict.to_json(os.path.join(output_folder, f"{date}_traffic_image.json"))
+
+    return output_dict
 
 
 def aggregate_road_image_dicts(road_dict_list):

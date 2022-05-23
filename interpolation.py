@@ -27,9 +27,9 @@ for trip_id, traj in tqdm(trajs_dict.dict.items()):
     # if traj.traj_id == "1000-1163668":
     #     a = points_table.df.loc[points_table.df["traj_id"] == "1000-1163668"]
     #     print()
-    new_traj = mtltrajs.interpolation(traj, numeric_column, resolution=0.2, degree=1)
-    new_traj.df = new_traj.df.loc[new_traj.df["inserted"] == 1]
-    new_traj.df = new_traj.df.drop(columns="inserted")
+    new_traj = mtltrajs.interpolation(traj, numeric_column, resolution=0.2, degree=1, inplace=False)
+    new_traj.df = new_traj.df.loc[new_traj.df["interpolated"] == 1]
+    new_traj.df = new_traj.df.drop(columns="interpolated")
     trajs_dict.dict[trip_id] = new_traj
 
 # interpolated_points_df = trajs_dict.get_points_df(attributes="all")
