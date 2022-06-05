@@ -27,10 +27,19 @@ def spat_cali(file_path):
         else:
             continue
 
-def plot_arterial(file_path):
 
-    return
+def net_spat_cali(spat_file, connection_file):
+    spat_raw = pd.read_csv(spat_file)
+    connection = pd.read_csv(connection_file)
+    spat = spat_raw.rename(columns={'movement_index': 'movement_id'})
+    laneset_spat = pd.merge(spat, connection, on='movement_id', how='left')
+    laneset_spat = laneset_spat[['upstream_laneset', 'start_time', 'end_time']]
+    laneset_spat.to_csv('calibration/laneset_spat.csv')
+
+
+
 
 
 if __name__ == "__main__":
-    spat_cali('peachtree/matched_trajs.csv')
+    # spat_cali('peachtree/matched_trajs.csv')
+    net_spat_cali('calibration/spat.csv', 'D:/osm-map-parser/output/peachtree/connections.csv')

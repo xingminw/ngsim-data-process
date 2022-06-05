@@ -24,6 +24,7 @@ def connection_calibration(stat_connections, cali_data):
         volume_sum = data_sum['volume']
         idx = net_turning[net_turning['movement_id'] == downstream].index
         net_turning.loc[idx, 'volume'] = volume_sum
+
     net_turning.dropna(subset=['volume'], inplace=True)
 
     # Adjust turning ratio
@@ -39,6 +40,10 @@ def connection_calibration(stat_connections, cali_data):
                                                             'downstream_laneset': 'downstream_link'}
                                                    )
     laneset_connection['priority'] = 0
+
+    # corrections
+    idx = laneset_connection[laneset_connection['diverge_prop'] == 1].index
+    laneset_connection.loc[idx, 'connection_type'] = 'ordinary'
     laneset_connection.to_csv('calibration/laneset_connection.csv', index=None)
 
 
@@ -72,3 +77,4 @@ def demand_calibration(stat_lanesets, demand_data):
 if __name__ == "__main__":
     demand_calibration('D:/osm-map-parser/output/peachtree/lanesets.csv', 'output/demand.csv')
     connection_calibration('D:/osm-map-parser/output/peachtree/connections.csv', 'output/turning.csv')
+    print()
