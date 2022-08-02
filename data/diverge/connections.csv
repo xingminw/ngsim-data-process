@@ -1,0 +1,6 @@
+connection_id,connection_type,upstream_link,downstream_link,diverge_prop,diverge_std,priority
+0,ordinary,0,1,1,1,0
+1,diverge,1,2,0.5,1,0
+1,diverge,1,3,0.5,1,0
+2,merge,2,4,1,1,1
+2,merge,3,4,1,1,0

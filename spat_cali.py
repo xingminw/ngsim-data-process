@@ -37,9 +37,6 @@ def net_spat_cali(spat_file, connection_file):
     laneset_spat.to_csv('calibration/laneset_spat.csv')
 
 
-
-
-
 if __name__ == "__main__":
     # spat_cali('peachtree/matched_trajs.csv')
     net_spat_cali('calibration/spat.csv', 'D:/osm-map-parser/output/peachtree/connections.csv')

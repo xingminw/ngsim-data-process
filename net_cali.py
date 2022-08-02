@@ -44,6 +44,7 @@ def connection_calibration(stat_connections, cali_data):
     # corrections
     idx = laneset_connection[laneset_connection['diverge_prop'] == 1].index
     laneset_connection.loc[idx, 'connection_type'] = 'ordinary'
+    laneset_connection['connection_id'] = laneset_connection['upstream_link']
     laneset_connection.to_csv('calibration/laneset_connection.csv', index=None)
 
 
